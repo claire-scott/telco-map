@@ -1,0 +1,28 @@
+version: '3.8'
+services:
+    terriamap:
+        build: ./Terriamap-Telco/
+        container_name: terriamap-telco
+        ports:
+            - 3001:3001
+    geoserver:
+        image: docker.osgeo.org/geoserver:2.25.0
+        container_name: 'geoserver'
+        ports:
+            - 8080:8080
+        #environment:
+        #    INSTALL_EXTENSIONS: "true"
+        #    STABLE_EXTENSIONS: "sqlserver"
+        volumes:
+            - ./geoserver/geoserver_data:/opt/geoserver_data
+    postgis:
+        image: postgis/postgis:latest
+        container_name: 'postgis'
+        ports:
+          - 5432:5432
+        environment:
+            POSTGRES_USER: 'postgis'
+            POSTGRES_PASSWORD: 'ytu!DJH*qeg8zun@wtw'
+            POSTGRES_DB: 'db'
+        volumes:
+            - ./postgis/postgis_data:/var/lib/postgresql/data

@@ -1,0 +1,765 @@
+SITE_ID,LATITUDE,LONGITUDE,NAME,STATE,LICENSING_AREA_ID,POSTCODE,SITE_PRECISION,ELEVATION,HCIS_L2,ASSIGNMENTS
+3332,-33.864292,151.211542,Governor Phillip Tower 1 Farrer Place SYDNEY,NSW,2,2000,Within 10 metres,28,NV7M,209
+3371,-33.857106,151.215389,Opera House Bennelong Point CIRCULAR QUAY,NSW,2,2000,Within 10 metres,0,NV7M,86
+3457,-33.892173,151.199347,Redfern Railway Station (Underground)  REDFERN,NSW,2,2016,Within 10 metres,undefined,NV7M,35
+3540,-33.87468,151.220915,Railway Station KINGS CROSS,NSW,2,2011,Unknown,undefined,NV7M,34
+3718,-33.892185,151.25007,Bondi Junction Plaza 500 Oxford Street BONDI JUNCTION,NSW,2,2022,Within 10 metres,89,NV7M,32
+3736,-33.891198,151.248645,Bondi Junction Railway Station (Underground) BONDI JUNCTION,NSW,2,2022,Within 10 metres,undefined,NV7M,38
+3764,-33.879404,151.235952,Edgecliff Railway Station (Underground)  EDGECLIFF,NSW,2,2027,Unknown,undefined,NV7M,34
+3901,-33.884681,151.149396,Market Place Leichardt Cnr Marion & Flood Sts LEICHHARDT,NSW,2,2040,Within 10 metres,undefined,NV7M,48
+4229,-33.581669,151.186045,Sydney Trains 35m Lattice Tower Repeater Trail via Pacific Hwy COWAN,NSW,2,2081,Within 10 metres,218,NV7I,62
+4245,-33.692724,151.222139,Bush Fire Brigade Tower Emergency Services Centre Kamber Road TERREY HILLS,NSW,2,2084,Within 10 metres,185,NV7I,241
+4378,-33.643235,151.314145,Comms (Telstra) Monopole Sydney Water Board Site off Plateau Road BILGOLA PLATEAU,NSW,2,2107,Within 10 metres,154,NV7J,144
+4494,-33.74005,151.05798,Axicom 45m Lattice Tower Corner of Loftus Rd and Pennant Hills Rd PENNANT HILLS,NSW,2,2120,Within 10 metres,178,NV7I,206
+5019,-33.862243,150.855999,Endeavour Energy Border Road HORSLEY PARK,NSW,2,2164,Within 10 metres,undefined,MV9P,30
+5200,-33.898968,151.046863,Sydney Trains 47m Lattice Tower 110 Hume Hwy CHULLORA,NSW,2,2190,Within 10 metres,64,NV7M,172
+5278,-33.919058,151.010943,Axicom 20m Monopole 1a Simmat Avenue CONDELL PARK,NSW,2,2200,Within 10 metres,40,NV7M,116
+5371,-33.962238,151.132628,Railway Station KOGARAH,NSW,2,2217,Unknown,undefined,NV7M,16
+5386,-33.967363,151.102213,Railway Station HURSTVILLE,NSW,2,2220,Unknown,undefined,NV7M,18
+5496,-34.181492,151.039281,NSWTA 40m Monopole Garawarra Ridge Trail off Garie Rd LILYVALE,NSW,2,2508,Within 10 metres,178,NW1A,30
+5507,-34.03167,151.057028,Sutherland Railway Station SUTHERLAND,NSW,2,2232,Within 10 metres,undefined,NW1A,75
+5532,-34.08486,151.0159,Axicom 36m lattice tower 35 Bottle Forest Road HEATHCOTE,NSW,2,2233,Within 10 metres,undefined,NW1A,26
+5625,-33.289446,151.236294,Telstra Radio Terminal MANGROVE,NSW,2,2250,Unknown,363,NV7E,240
+5628,-33.406084,151.295477,Sydney Trains 55m Lattice Tower Mt Penang 209 Debenham Road SOMERSBY,NSW,2,2250,Within 10 metres,246,NV7F,59
+5707,-33.294467,151.367119,"Central Coast Council 65m Lattice Tower Ourimbah State Forest, cnr of Scaddens Ridge Rd and Potters Gully Rd OURIMBAH",NSW,2,2258,Within 10 metres,175,NV7F,77
+5731,-33.19518,151.50227,Sydney Trains 45m Lattice Tower off Wyee Road WYEE,NSW,2,2262,Within 10 metres,undefined,NV7C,30
+5799,-33.024918,151.64877,Belmont Hospital BELMONT,NSW,3,2280,Within 100 metres,21,NV7C,132
+5840,-32.890673,151.538615,Transgrid Site Mount Sugarloaf via NEWCASTLE,NSW,3,2286,Within 100 metres,375,NV4O,143
+5852,-32.93207,151.689989,Ausgrid 40m Lattice Tower 4/154 Lookout Rd NEW LAMBTON HEIGHTS,NSW,3,2305,Within 10 metres,111,NV4O,112
+6054,-32.73162,152.131117,Comms Site Gan Gan Hill near NELSON BAY,NSW,3,2301,Within 100 metres,140,NV5I,150
+6084,-32.763513,151.223085,Ausgrid 40m Lattice Tower Brokenback Rd POKOLBIN,NSW,4,2330,Within 10 metres,590,NV4M,170
+6115,-32.96753,151.463358,Telstra Radio Terminal 3 km NW of Freemans Waterhole MT HEATON,NSW,3,2325,Within 10 metres,484,NV4N,104
+6148,-32.978419,151.246156,"NSWTA 40m Lattice Tower Mount Congewai, Watagan Track via Cabans Rd CORRABARE",NSW,3,2325,Within 10 metres,321,NV4M,24
+6195,-32.383674,150.657634,Telstra Site Mount Denman  2.8 km W of DENMAN,NSW,4,2328,Within 100 metres,390,MV6G,74
+6202,-32.021178,149.995843,NBN Site CASSILIS,NSW,4,2329,Unknown,532,MV5D,28
+6210,-32.121467,150.312164,Telstra Site Near Banderra Downs Homestead via MERRIWA,NSW,4,2329,Within 100 metres,421,MV6B,76
+6220,-32.751897,150.865994,NPWS 25.5m Lattice Tower Mt Poppong Pools Arm Trail HOWES VALLEY,NSW,4,2330,Within 100 metres,534,MV6P,50
+6277,-32.507736,151.158285,Telstra Radio Terminal Obanvale Near SINGLETON,NSW,4,2330,Within 100 metres,168,NV4I,164
+6280,-32.987462,150.689701,"Transgrid 36.6m Lattice Tower Singleton Putty Trig, off Putty Rd PUTTY",NSW,4,2330,Within 100 metres,397,MV6O,64
+6337,-32.363581,150.857636,Energy Australia Site Mount Arthur via MUSWELLBROOK,NSW,4,2333,Within 10 metres,461,MV6H,204
+6361,-32.141714,150.782901,Broadcast Australia Site Rossgole Lookout ABERDEEN,NSW,4,2336,Within 100 metres,491,MV6D,44
+6370,-31.950003,150.929285,Ausgrid 35m and 18m Lattice Towers Black Mountain via 4116 New England Hwy WINGEN,NSW,4,2337,Within 100 metres,1001,MV3P,85
+6401,-31.727504,150.843984,Telstra Site Mount Helen off New England Hwy MURRURUNDI,NSW,4,2338,Within 100 metres,1172,MV3L,68
+6419,-31.587659,150.992754,NSWPF 30m Lattice Tower Crawney Trig Station Crown Rd MOUNT CRAWNEY,NSW,4,2343,Within 10 metres,undefined,MV3L,46
+6477,-31.0759,150.957558,Broadcast Australia Site Bald Hill  Daruka Rd DARUKA,NSW,4,2340,Within 100 metres,753,MV3D,100
+6486,-31.446691,151.206093,"NSWPF 23m Lattice Tower, Yerrowin Trig Baldy Knob off Hoads Farm Rd HANGING ROCK",NSW,4,2340,Within 10 metres,1340,NV1E,43
+6525,-31.301876,150.685618,State Rail Authority (SRA) Site Mount Terrible Near WERRIS CREEK,NSW,4,2342,Within 100 metres,890,MV3G,96
+6553,-31.514657,150.666371,Council Site Who-Da-Thought-It Lookout QUIRINDI,NSW,4,2343,Within 100 metres,497,MV3K,34
+6609,-30.222172,150.493916,Tank Blue Nobby Mountain N of BARRABA,NSW,4,2347,Within 10 metres,913,MU9B,51
+6627,-30.329469,151.734558,NSW Police site Black Mountain 167 Box Point Road BLACK MOUNTAIN,NSW,4,2365,Within 10 metres,undefined,NU7G,28
+6653,-30.490522,152.400508,TransGrid 45.7m Lattice Tower 1433 Point Lookout Rd EBOR,NSW,4,2350,Within 100 metres,1437,NU8F,59
+6687,-30.546519,151.649595,"NSWPF 30m Lattice Tower Kelly Plains, off 96 Translator Rd ARMIDALE",NSW,4,2350,Within 10 metres,1135,NU7K,48
+6696,-31.023907,150.191973,NSWPF 30m Lattice Tower Black Jack Mountain via Barlow Road GUNNEDAH,NSW,4,2380,Within 10 metres,642,MV3A,77
+6755,-31.277367,151.849914,Essential Energy 30m Lattice Tower off Porters Camp Rd YARROWITCH,NSW,4,2354,Within 10 metres,1419,NV1H,45
+6782,-30.733264,151.485049,Harnham Hill Mt Salisbury  10 km S of URALLA,NSW,4,2358,Within 10 metres,1237,NU7J,27
+6828,-29.83098,151.087092,Inverell Shire commsite UAMBI,NSW,4,2360,Within 10 metres,757,NU4M,43
+6855,-29.770931,151.149427,Broadcast Australia Site Swanbrook Road INVERELL,NSW,4,2360,Within 100 metres,undefined,NU4M,869
+6870,-29.062789,151.102435,"Essential Energy 27m Lattice Tower Mt Hallam, 794 Mount Hallam Rd ATHOLWOOD",NSW,4,2361,Within 10 metres,734,NU4A,44
+6881,-29.329728,151.118829,Broadcast Australia site Ashford-Bukkulla Rd  2.4km ESE of ASHFORD,NSW,4,2360,Unknown,498,NU4E,158
+6898,-29.959284,151.605113,RFS Site MOUNT RUMBEE,NSW,4,2365,Within 10 metres,1348,NU4O,27
+6907,-30.091606,151.255538,NSWPF 30m Lattice Tower Mt Tingha 440 Tower Trial BASSENDEAN,NSW,4,2365,Within 10 metres,1177,NU7B,62
+6909,-30.00748,151.68344,TransGrid 45.7m Lattice Tower off 480 Inn Rd BEN LOMOND,NSW,4,2365,Within 10 metres,1499,NU7C,96
+6915,-29.903964,151.246441,Essential Energy 30m Lattice Tower Mt Topper Via Stannifer Rd TINGHA,NSW,4,2369,Within 10 metres,960,NU4M,62
+6989,-29.376913,152.009964,"NSWPF 23.5m Lattice Tower , Capoompeta Trig, Magistrate Trail via Coxs Rd DEEPWATER",NSW,4,2371,Within 10 metres,1493,NU5E,95
+7024,-30.703322,150.038245,Telstra site BOGGABRI,NSW,4,2382,Unknown,261,MU9I,58
+7247,-29.445375,149.570859,Telstra site WATERCOURSE,NSW,4,2400,Unknown,188,MU5G,28
+7253,-28.897756,149.798847,Countrywide Communications Site Laurel Vale via GARAH,NSW,5,2405,Within 10 metres,185,MU2P,73
+7254,-29.470596,149.750975,Axicom 80m Lattice Tower LOT 5 Mallee Road MOREE,NSW,4,2400,Within 10 metres,199,MU5G,95
+7362,-29.045596,150.443273,NSW Police Site Mount Mitchell LOT 7002 DP1060522 NORTH STAR,NSW,4,2408,Unknown,414,MU6B,93
+7414,-32.536716,151.651557,Comms Site  Mount Douglas Gardiners Road MARTINS CREEK,NSW,4,2420,Within 100 metres,368,NV4K,35
+7417,-32.411069,151.651728,Dungog Shire Council Site Mount Richardson Near DUNGOG,NSW,4,2311,Within 10 metres,452,NV4G,92
+7448,-32.11064,151.767785,State Rail Authority (SRA) Site Mount Berrico Near GLOUCESTER,NSW,4,2422,Within 100 metres,911,NV4D,18
+7463,-32.25852,152.120421,"CountryTell & Great Lakes FM 40m Lattice Tower Cabbage Tree Mtn, off Cabbage Tree Rd UPPER MYALL",NSW,4,2425,Within 10 metres,626,NV5E,44
+7468,-31.92181,152.181847,State Rail Authority Tower Dees Rd MOUNT GANGHAT,NSW,4,2429,Within 100 metres,537,NV2M,18
+7493,-32.193369,152.524544,Mid Coast City Council 36m Lattice Tower 35 Likely St FORSTER,NSW,4,2428,Within 10 metres,40,NV5C,32
+7513,-31.647888,152.456355,Vertel Site Latimores Rd Comboyne via WINGHAM,NSW,4,2430,Within 100 metres,638,NV2J,37
+7514,-31.66076,152.14249,NSWTA 40m Lattice Tower Nine Tree Hill Rd DINGO FOREST,NSW,4,2424,Within 100 metres,886,NV2I,48
+7554,-31.905688,152.456274,State Rail Authority (SRA) Microw Avenue Tower Rail Yards TAREE,NSW,4,2430,Within 100 metres,23,NV2N,56
+7605,-30.854824,152.402678,Telstra Passive Repeater SCOTCHMAN,NSW,4,2440,Unknown,579,NU8N,40
+7611,-31.193359,152.979009,Reservoir 2 CRESCENT HEAD,NSW,4,2440,Unknown,51,NV2D,61
+7620,-31.117679,152.35101,"NSWOEH 15m Guyed Mast Spokes Mountain, off Spokes Trail via Hastings Forest MOPARRABAH",NSW,4,2440,Within 10 metres,1208,NV2B,22
+7647,-31.273983,152.78677,SRA Site Red Hill Red Hill Road G83 Out of TELEGRAPH POINT,NSW,4,2440,Within 10 metres,194,NV2H,47
+7659,-31.705886,152.674238,Pacific Power Site MIDDLE BROTHER,NSW,4,2443,Within 10 metres,496,NV2K,75
+7719,-31.465636,152.91943,"NSWPF 35m Lattice Tower Transit Hill, 25 Orr St PORT MACQUARIE",NSW,4,2444,Within 10 metres,113,NV2H,49
+7728,-31.579137,152.799094,Translator Tower Camp Ridge Road  19 km SSW of Port Macquarie JOLLY NOSE HILL,NSW,4,2446,Within 10 metres,242,NV2L,162
+7769,-30.662477,152.653305,NSWTA 50m Lattice Tower and 35m Guyed Mast  Dunggir National Park Wilkes Rd BUCKRA BENDINNI,NSW,4,null,Within 10 metres,840,NU8K,74
+7804,-30.602595,152.951534,Vertel Site MT ENGLAND,NSW,4,2448,Unknown,258,NU8L,41
+7935,-30.057305,153.00969,Rail Access Site THE BLUFF,NSW,4,2450,Within 10 metres,356,NU9A,34
+7949,-30.263134,153.11872,"Axicom 32.3m Monopole Sealy Lookout Orara East State Forest, off 115 Bruxner Park Rd KORORA",NSW,4,2450,Within 10 metres,173,NU9E,97
+7952,-30.317419,152.859724,Broadcast Mast 26 km WSW of Coffs Harbour MOUNT MOOMBIL,NSW,4,2450,Within 10 metres,990,NU8H,94
+7956,-30.219255,153.053358,Telstra Tower Mount Coramba Orara East State Forest COFFS HARBOUR,NSW,4,2450,Within 10 metres,563,NU9A,144
+7971,-30.333091,153.032886,ARTC 61m Lattice Tower Fridays Creek Rd BOAMBEE,NSW,4,2450,Within 10 metres,288,NU9E,385
+7980,-31.042475,152.573389,NSWTA 30m Lattice Tower and 27m Kempsey Council Guyed Mast off Bonnangi Trail TEMAGOG,NSW,4,2440,Within 10 metres,615,NV2C,53
+7983,-30.05531,152.35889,"NSWOEH 12m Lattice Tower Chaelundi Mtn, off Chaelundi Rd THE GULF",NSW,4,2450,Unknown,1374,NU8B,26
+7985,-30.165961,152.430917,Vertel Site MT HYLAND,NSW,4,2453,Within 100 metres,1272,NU8B,27
+7996,-30.29516,152.616965,Essential Energy 15m Wooden Pole Mt Christopherson 458 Muldiva Rd BOSTOBRICK,NSW,4,2453,Within 10 metres,876,NU8G,27
+8042,-30.498168,153.013619,Bellingen Council 20m Water Tank 8 Panorama Parade URUNGA,NSW,4,2455,Within 10 metres,41,NU9E,24
+8127,-29.487481,152.343912,Npws Site SUMMIT MOUNTAIN,NSW,4,2370,Unknown,1163,NU5F,16
+8152,-29.701826,152.941896,Rail Access Tower SOUTH GRAFTON,NSW,4,2461,Unknown,14,NU5L,80
+8175,-29.613986,152.479179,Northern Rivers Comms. Site CANGAI EAST,NSW,4,2460,Unknown,989,NU5J,67
+8202,-29.635007,153.157229,NSWTA 25m Lattice Tower Pine Brush State Forest PILLAR VALLEY,NSW,4,2462,Within 100 metres,244,NU6I,43
+8212,-29.585045,153.27715,NSWOEH 25m Lattice Tower off Clarence Peak Trail via Blooms Head Rd TALOUMBI,NSW,4,2463,Within 10 metres,289,NU6J,49
+8220,-29.45705,153.21394,Indara 45m Lattice Tower Lookout Road MACLEAN,NSW,4,2463,Within 10 metres,31,NU6E,42
+8255,-28.9489,152.30699,"NSWPF & NSWTA 30m Lattice Towers Girard State Forest, off Tower Fire Trail SANDY HILL",NSW,4,2372,Within 10 metres,937,NU2N,65
+8269,-28.89949,152.74012,Transgrid 30m Monopole Mellanganee Lookout Rd MALLANGANEE,NSW,4,2469,Within 10 metres,332,NU2O,197
+8333,-28.49643,152.87842,"NSWOEH 26m Lattice Tower Tower Rd, off Toonumbar Forest Road UPPER EDEN CREEK",NSW,4,2474,Within 10 metres,479,NU2H,30
+8344,-28.386095,152.643634,Kyogle Council 31.2m Lattice Tower Towers Road WOODENBONG,NSW,4,2476,Within 10 metres,563,NU2G,33
+8393,-28.863895,153.589449,NSWTA 20m Monopole Water Reservoir off Suvla Rd BALLINA EAST,NSW,4,2478,Within 10 metres,54,NU3O,34
+8533,-28.545563,153.287606,Broadcast Australia Tower 30 km N of Lismore MT NARDI,NSW,4,2480,Within 10 metres,783,NU3J,100
+8535,-28.542669,153.290154,NRN8 TV Tower 30 km N of Lismore MT NARDI,NSW,4,2480,Within 10 metres,776,NU3J,127
+8539,-28.856937,153.228511,State Rail Authority & Northern Rivers Communications PARROTS NEST,NSW,4,2480,Within 10 metres,187,NU3M,80
+8581,-28.660016,153.560704,NSWPF 45m Lattice Tower off St Helena Rd MCLEODS SHOOT,NSW,4,2479,Within 10 metres,146,NU3K,99
+8760,-34.473886,150.862008,Water Reservoir Reservoir Street BERKELEY TOPS,NSW,2,2506,Within 10 metres,110,MW3H,28
+8783,-34.263419,150.954547,"Transgrid 70m Lattice Tower The Forest Walk, 267 Princes Hwy MADDENS PLAINS",NSW,2,2508,Within 10 metres,382,MW3H,143
+8949,-34.69813,150.791728,"Tower 4, NSWTA 35m Monopole 630 Saddleback Mountain Rd SADDLEBACK MOUNTAIN",NSW,2,2533,Within 10 metres,503,MW3L,65
+8955,-34.698339,150.792174,"Tower 2, Kiama Council 22m Monopole Saddleback Mountain Rd SADDLEBACK MOUNTAIN",NSW,2,2533,Within 10 metres,513,MW3L,48
+8979,-35.796077,150.005537,Broadcast Site 18km WSW of Batemans Bay MT WANDERA,NSW,4,2537,Within 100 metres,559,MW6M,115
+8980,-35.794687,150.006294,North Site  18 km WSW of Batemans Bay MT WANDERA,NSW,4,2537,Within 100 metres,530,MW6M,85
+8981,-35.91074,150.072341,RFS Site Control Centre Campbell St MORUYA,NSW,4,2537,Unknown,11,MW6M,6
+8999,-35.452238,150.320504,"Transgrid 40m Lattice Tower, Boyne Trig off Old Coach Road BROOMAN",NSW,4,2538,Within 10 metres,343,MW6F,65
+9100,-34.800271,150.577176,Cambewarra Lookout Cambewarra Mountain via BOMADERRY,NSW,4,2535,Within 10 metres,undefined,MW3O,327
+9120,-36.195511,150.083603,Broadcast Site BUCKERIDGE LOOKOUT,NSW,4,2546,Within 10 metres,211,MW9A,35
+9136,-36.252031,150.227331,Head Keepers Quarters MONTAGUE ISLAND,NSW,4,2546,Unknown,42,MW9E,4
+9151,-37.30173,149.71022,NSWTA 35m Monopole off Timbillica Road TIMBILLICA,NSW,4,2551,Unknown,477,MX2G,58
+9155,-36.303791,149.783906,Wandella Trig PEAK ALONE,NSW,4,2550,Within 10 metres,936,MW8H,180
+9162,-36.544939,149.866163,Broadcast Site 14.5 km N of Bega MUMBULLA MOUNTAIN,NSW,4,2550,Within 100 metres,766,MW8L,160
+9167,-37.1034,149.7838,NSWPF 22.8m Lattice Tower Nullica State Forest off Myrrial River Rd NULLICA,NSW,4,2551,Unknown,365,MX2D,20
+9196,-34.32486,150.77061,Telstra Site Cordeaux Colliery Pit Top CORDEAUX,NSW,2,2519,Unknown,363,MW3H,48
+9301,-34.0686,150.44187,WaterNSW 60m Lattice Tower  Burragorang Lookout Rd NATTAI,NSW,2,2787,Within 10 metres,460,MW3B,50
+9331,-34.138944,150.664926,SRA Transgrid site near Prudhoe Trig Razorback Road RAZORBACK RANGE,NSW,2,2571,Within 10 metres,331,MW3C,226
+9356,-34.371084,150.335635,Kanangra High Range Road High Range via MITTAGONG,NSW,4,2575,Within 10 metres,752,MW3F,32
+9362,-34.464574,150.428225,Wingecarribee Shire Council 40m Lattice Tower Mt Gibraltar off Oxley Dr BOWRAL,NSW,4,2575,Within 10 metres,834,MW3F,138
+9403,-34.55381,150.628411,ARTC 20m Lattice Tower Mount Murray 1671 Tourist Rd EAST KANGALOON,NSW,2,2577,Unknown,760,MW3K,16
+9429,-34.579534,150.209004,Elcom Repeater Station ELLSMORE,NSW,4,2577,Unknown,723,MW3I,69
+9449,-34.623507,150.694439,NTA UHF Tower KNIGHTS HILL,NSW,2,2533,Within 10 metres,739,MW3K,76
+9453,-34.580149,150.617342,Comm Site Mackeys Lane ROBERTSON,NSW,4,2577,Within 10 metres,undefined,MW3K,208
+9464,-34.645821,150.147225,Telstra Site Hume Hwy 15 km N of Marulan FREESTONE,NSW,4,2579,Within 10 metres,712,MW3I,246
+9507,-34.93712,149.379715,Win Site Chaton Ridge LAKE GEORGE,NSW,4,2581,Within 10 metres,900,MW2N,53
+9532,-35.094459,149.083737,Pacific Power Site Mt Spring CANBERRA,NSW,4,2620,Unknown,860,MW5A,44
+9534,-34.160731,149.238193,Multiple Lattice Towers and Poles Snowy Mountain Comms Site off Bigga Rd BIGGA,NSW,4,2583,Within 10 metres,923,MW2A,78
+9538,-34.384948,149.473164,"Multiple Lattice Towers and Poles Laggan Trig, 563 Redground Rd CROOKWELL",NSW,4,2583,Unknown,1017,MW2F,92
+9547,-34.421647,148.750124,NSWTA 50m Lattice Tower off Rugby Road BOOROWA,NSW,4,2586,Unknown,626,MW1G,84
+9551,-34.484418,148.318322,"FRNSW 30m Lattice Tower Rocky Hill, Kingsvale Rd KINGSVALE",NSW,4,2587,Unknown,564,MW1F,32
+9560,-34.299307,148.306296,Reservoir Hill Council Site YOUNG,NSW,4,2594,Within 100 metres,503,MW1F,16
+9621,-35.381167,149.125215,Electronic Services/Philips Site ISAACS RIDGE,ACT,4,2620,Within 10 metres,837,MW5E,35
+9675,-35.373617,149.215356,Essential Energy 25m Monopole 1 1 McIntyre Street JERRABOMBERRA,NSW,4,2619,Within 10 metres,775,MW5E,203
+9705,-35.75374,149.288289,"NSWPF 23m Lattice Tower Calabash Firetrail, Mt Eagle, off 135 Calabash Rd TINDERRY",NSW,4,2626,Within 10 metres,1400,MW5N,55
+9722,-35.455327,149.772087,Broadcast Site 2.8 km SW of Braidwood MT GILLAMATONG,NSW,4,2622,Within 100 metres,894,MW5H,51
+9727,-35.668053,149.914708,"Eurobodalla Shire Council 40m Lattice Tower Boundary Mountain, Monga National Park, off Boundary Fire Trail MONGA",NSW,4,2622,Within 10 metres,943,MW5L,28
+9728,-35.479975,149.99564,"NPWS 18m Lattice Tower Fire Lookout Budawang National Park, Mount Budawang Rd BUDAWANG",NSW,4,2622,Within 100 metres,1099,MW5H,71
+9730,-35.983232,149.025707,Ten Capital Broadcast Site MT ROBERTS,NSW,4,2630,Within 10 metres,1471,MW5M,71
+9736,-36.643919,148.456383,Commsite INGEBIRAH TRIG,NSW,4,2627,Unknown,1419,MW7J,33
+9740,-36.401291,148.664702,Southern Cross Broadcast Site JINDERBOINE HILL,NSW,4,2628,Unknown,1234,MW7G,229
+9745,-36.394897,148.118761,Fire Tower MT YOUNGAL,NSW,4,2627,Within 10 metres,1511,MW7E,87
+9756,-35.9411,148.389,Comm Site CABRAMURRA,NSW,4,2630,Unknown,1559,MW4N,91
+9766,-35.906617,148.460019,NPWS site MT SELWYN,NSW,4,2630,Within 10 metres,1548,MW4N,28
+9772,-36.064313,148.56825,"Snowy Hydro and NSWPF 2xLattice Towers Eucumbene Lookout, off Happy Jacks Rd SNOWY PLAIN",NSW,4,2630,Within 10 metres,1640,MW7C,57
+9778,-36.191369,148.883137,"NSWPF 23m Lattice Tower Wambrook Trig, 261 Rhinefalls Rd RHINE FALLS",NSW,4,2630,Within 10 metres,1326,MW7D,137
+9790,-36.441297,149.1651,Broadcast Site HUDSONS PEAK,NSW,4,2630,Within 100 metres,1213,MW8E,22
+9795,-36.59784,149.38257,Tower Broadcast Australia Site off Snowy Mountains Hwy BROWN MOUNTAIN,NSW,4,2631,Within 10 metres,1239,MW8J,73
+9803,-36.931153,149.279401,NSWRFS 30m Lattice Tower off Bucky Springs Rd BOMBALA,NSW,4,2632,Within 10 metres,938,MW8N,49
+9806,-36.837675,149.515536,Commsite MT DARRAGH,NSW,4,2632,Within 100 metres,949,MW8O,20
+9812,-36.020257,146.961538,NSWPF 23m Lattice Tower Tower Lane SPRINGDALE HEIGHTS,NSW,4,2641,Within 10 metres,460,LW8D,126
+9818,-35.802163,147.254039,Telstra Site MT RAVEN,NSW,4,2644,Within 10 metres,531,LW6N,81
+9819,-35.721645,146.590321,Comm Site Goombargana Hill via WALBUNDRIE,NSW,4,2643,Within 10 metres,394,LW5K,157
+9849,-33.385844,142.571393,Telstra site POONCARIE,NSW,5,3500,Within 10 metres,46,KV7G,33
+9877,-35.556533,147.170655,"NSWRFS / Greater Hume Shire Council 30m Lattice Tower Peddles Hill, off Ross Rd COOKARDINIA",NSW,4,2658,Within 100 metres,490,LW6I,73
+9878,-35.073466,147.271995,"NSWPF 23m Lattice Tower Malebo Hill, off Old Narrandera Rd EUBERTA",NSW,4,2650,Within 10 metres,271,LW6B,555
+9885,-35.132713,147.372072,NSWPF 30m Lattice Tower Wagga/Willans Hill Captain Cook Dr TURVEY PARK,NSW,4,2650,Within 10 metres,292,LW6B,80
+9894,-34.551392,146.610277,Telstra Site SQUARE HEAD,NSW,4,2700,Within 10 metres,undefined,LW2K,24
+9895,-35.1088,146.7904,"NSWPF 33m Lattice Tower Galore Hill, off Slocum's Ln FARGUNYAH",NSW,4,2656,Within 10 metres,374,LW5D,117
+9898,-35.494368,147.612125,NSWPF 30m Lattice Tower Mt Burngoogee off Tower Rd KYEAMBA,NSW,4,2652,Within 10 metres,688,LW6G,118
+9899,-35.898127,147.9491,NSW Police Site Mt Ikes  Ikes Mountain Rd TOOMA,NSW,4,2653,Within 10 metres,1032,LW6P,158
+9910,-33.862298,146.700333,Commsite MT NARRIAH,NSW,5,2669,Within 100 metres,465,LV8O,57
+9913,-33.41196,147.33736,Comm Site Manna Mountain via FORBES,NSW,4,2877,Within 100 metres,468,LV9F,109
+9914,-33.365554,146.215951,NSWPF 17.2m and NSWTA 40m Lattice Towers Mt Bowen off Lachlan Valley Way LAKE CARGELLIGO,NSW,5,2672,Within 10 metres,550,LV8E,40
+9915,-33.36381,146.21684,Telstra Radio Terminal BOWEN MOUNTAIN,NSW,5,2672,Within 100 metres,534,LV8E,42
+9936,-34.426468,145.428541,"NSWPF 90m Guyed Mast Carrathool Rd, off Murrumbidgee River Rd CARRATHOOL",NSW,5,2711,Within 10 metres,104,LW1F,36
+9937,-35.78887,145.7811,"Essential Energy 40m Lattice Tower Stoney Hill, off Pinchbecks Rd BERRIGAN",NSW,4,2712,Within 10 metres,186,LW4P,91
+9939,-35.6586,145.5668,Transgrid 45.7m Lattice Tower off Newell Hwy FINLEY,NSW,4,2713,Within 10 metres,110,LW4K,44
+9949,-35.360444,148.21634,"NSWPF 33m Lattice Tower Wereboldera Trig, off Stony Creek Trial WEREBOLDERA",NSW,4,2720,Within 10 metres,817,MW4E,120
+9957,-34.820303,147.901399,Broadcast Mast Broadcast Australia Site Mt Ulandra Bethungra Rd BETHUNGRA,NSW,4,2590,Within 10 metres,742,LW3P,94
+9965,-35.54556,148.199333,Comm Site Snubba Range via BATLOW,NSW,4,2730,Within 100 metres,1000,MW4I,145
+9971,-35.100087,143.528858,Essential Energy 35m Lattice Tower 1681 Lake Poomah Rd STONEY CROSSING,NSW,4,3585,Within 10 metres,60,KW5C,34
+10022,-33.753986,150.701425,NSW Police Station High Street PENRITH,NSW,2,2750,Unknown,42,MV9O,12
+10024,-33.751642,150.692906,Penrith Plaza Jane St PENRITH,NSW,2,2750,Unknown,32,MV9O,16
+10122,-33.556582,150.421741,Endeavour Energy 46.1m Lattice Tower 15 Charleys Rd MOUNT TOMAH,NSW,4,2786,Within 10 metres,1000,MV9J,99
+10147,-33.532162,150.620283,Transgrid 45m Lattice Tower 84 Burralow Road KURRAJONG HEIGHTS,NSW,2,2758,Within 10 metres,586,MV9K,114
+10276,-33.496679,151.038335,NSWTA 60m Lattice Tower 9 Canoelands Rd CANOELANDS,NSW,2,2159,Within 10 metres,204,NV7E,30
+10286,-33.410171,150.998043,Commsite SIMPSONS HILL,NSW,2,2775,Unknown,214,MV9H,93
+10333,-33.711332,150.313649,NSWPF 30m Monopole Katoomba Court House 13-15 Civic Pl KATOOMBA,NSW,4,2780,Within 10 metres,1009,MV9J,26
+10335,-33.702963,150.28954,Explorers Tree Hill Great Western Hwy KATOOMBA,NSW,4,2780,Within 10 metres,1037,MV9J,70
+10386,-33.787733,150.260525,NSWOEH 30m Lattice Tower Narrow Neck Plateau Trail via Glenraphael Drive MEGALONG VALLEY,NSW,4,2785,Within 10 metres,1061,MV9N,17
+10425,-33.832338,149.990306,"Airservices Australia 53m Lattice Tower and 99m Guyed Mast, Mt Edith 94 Edith Road JENOLAN",NSW,4,2790,Within 10 metres,1339,MV8P,38
+10474,-33.50592,150.1478,Endeavour Energy  Tower HASSANS WALLS,NSW,4,2790,Within 10 metres,undefined,MV9I,114
+10521,-33.777794,149.136217,"NSWTA 35m Lattice Tower, Fire Lookout Bugs Ridge Trail PENNSYLVANIA",NSW,4,2793,Within 10 metres,932,MV8M,20
+10569,-33.07459,149.69955,NSWPF 19m Monopole Commissioners Hill off Ilford Sofala Road SOFALA,NSW,4,2795,Within 10 metres,761,MV8C,20
+10576,-33.943006,149.622188,NSWTA 35m Lattice Tower Burraga Fire Lookout via Tallebung Rd ISABELLA,NSW,4,2795,Unknown,1152,MV8O,22
+10593,-33.470997,149.987762,TransGrid 40m Lattice Tower (Western Tower) off Bonaventure Rd MOUNT LAMBIE,NSW,4,2790,Within 10 metres,1278,MV8H,74
+10621,-33.450439,149.547172,Telstra Site Reid Park MT PANORAMA / WAHLUU,NSW,4,2795,Within 10 metres,869,MV8G,71
+10627,-33.382916,149.900188,NSWTA 35m Lattice Tower Fire Lookout SUNNY CORNER,NSW,4,2795,Within 10 metres,1265,MV8H,28
+10712,-33.34557,148.9811,Transgrid 45.7m Lattice Tower Mount Canobolas Rd CANOBOLAS,NSW,4,2800,Within 10 metres,1382,MV7H,228
+10735,-33.251972,148.337558,NSW Police Site Mount Coonambro  MOUNT COONAMBRO,NSW,4,2806,Within 100 metres,614,MV7F,83
+10739,-34.04944,148.43953,NSWPF 50m Lattice Tower NE Bendick Murrell National Park off Roberts Rd CROWTHER,NSW,4,2810,Unknown,659,MW1B,61
+10743,-33.879989,148.140991,"50m NSW Police Force Lattice Tower Mid Western Highway, Bogolong Hill GRENFELL",NSW,4,2810,Within 100 metres,469,MV7M,27
+10768,-32.425676,149.104091,Wellington Shire Council Site Mount Bodangora Near WELLINGTON,NSW,4,2820,Within 10 metres,732,MV5E,159
+10774,-32.56341,148.90201,Telstra Radio Terminal Mount Wellesley  off Bushranger Ck Rd WELLINGTON,NSW,4,2820,Within 10 metres,533,MV4L,101
+10792,-32.34481,148.381376,Sappa Bulga Trig off Newell Hwy YARRABA,NSW,4,2830,Within 10 metres,544,MV4F,136
+10793,-32.033624,147.978252,Narromine Shire Council Site Temoin St TRANGIE,NSW,5,2823,Unknown,242,LV6D,19
+10800,-32.03182,147.98085,Telstra Exchange Derribong St TRANGIE,NSW,5,2823,Within 100 metres,229,LV6D,38
+10812,-31.699961,147.837178,Telstra Exchange Lawson St WARREN,NSW,5,2824,Within 100 metres,188,LV3L,84
+10823,-31.704252,146.78159,Telstra Radio Terminal Nardoo Bourkes Road via HERMIDALE,NSW,5,2825,Within 100 metres,259,LV2L,14
+10824,-31.587159,147.180754,BAI Comms Site Lot 95 Tottenham Road NYNGAN,NSW,5,2825,Within 10 metres,169,LV3I,33
+10875,-30.676492,148.25089,Telstra Radio Terminal Warrington 34 Kilometres North of COONAMBLE,NSW,5,2829,Within 100 metres,146,MU7I,20
+10876,-30.9551,148.389,Telstra Exchange COONAMBLE,NSW,5,2829,Within 100 metres,177,MU7N,52
+10943,-32.236767,148.677546,Telstra Radio Terminal Buninyong Hill Near DUBBO,NSW,4,2830,Within 10 metres,346,MV4C,82
+10944,-32.237046,148.677689,Essential Energy 30m Lattice Tower & Dubbo City Council 15m Pole Buninyong Hill 20L Harefield Rd DUBBO,NSW,4,2830,Within 100 metres,346,MV4C,66
+10964,-32.016778,146.33546,Telstra Radio Terminal Nymagee Mountain Near NYMAGEE,NSW,5,2831,Unknown,487,LV5B,42
+10966,-30.446878,147.654007,Telstra Exchange CARINDA,NSW,5,2829,Unknown,126,LU9G,40
+10974,-31.25742,147.25224,Telstra Site Colane via NYNGAN,NSW,5,2825,Within 10 metres,157,LV3F,20
+10975,-30.897329,147.465075,Telstra Radio Terminal Buckinguy via COONAMBLE,NSW,5,2824,Unknown,149,LU9N,22
+10992,-31.25561,146.89621,Telstra Exchange GIRILAMBONE,NSW,5,2831,Within 10 metres,236,LV2H,24
+11020,-31.874663,148.640926,Telstra Radio Terminal Baladoran via DUBBO,NSW,5,2830,Within 100 metres,340,MV1O,58
+11021,-30.932049,146.261904,Country Energy Site Caronga Peak Near COBAR,NSW,5,2835,Within 100 metres,389,LU8N,93
+11022,-31.995372,149.634269,Telstra Radio Terminal Broombee via COOLAH,NSW,4,2843,Within 100 metres,590,MV2O,28
+11024,-30.929549,147.869513,Telstra Radio Terminal QUAMBONE,NSW,5,2829,Within 100 metres,145,LU9P,34
+11028,-31.231245,147.631628,Telstra Site Mount Foster Near WARREN,NSW,5,2824,Within 10 metres,251,LV3C,95
+11071,-30.030223,147.468227,Telstra DRCS Base Six Mile Tank BOOROOMA,NSW,5,2832,Within 100 metres,128,LU9B,32
+11076,-30.020845,148.112859,Country Energy Depot Wee Waa Street WALGETT,NSW,5,2832,Unknown,138,MU7A,29
+11079,-29.670077,147.79424,Telstra Radio Terminal Springvale Cumborah Road 29.7 km South of LIGHTNING RIDGE,NSW,5,2832,Within 10 metres,157,LU6L,40
+11085,-29.570249,148.544539,Broadcast Site COLLARENEBRI,NSW,5,2833,Unknown,136,MU4K,24
+11107,-29.406224,147.972244,Broadcast Australia Site Off Wooloroo Rd  3km N of LIGHTNING RIDGE,NSW,5,2833,Within 10 metres,155,LU6H,64
+11111,-29.668161,148.097001,Telstra Exchange BORAH TANK,NSW,5,2832,Unknown,133,MU4I,12
+11120,-31.559547,145.878973,Cobar Shire Council Site The Peak Hillston Road COBAR,NSW,5,2835,Unknown,313,LV1L,35
+11151,-31.541562,146.282872,Essential Energy 46m Lattice Tower Mt Boppy via Rosevale Rd CANBELEGO,NSW,5,2835,Within 100 metres,382,LV2J,68
+11155,-30.41984,143.27863,Telstra Radio Terminal 50 Km NNE White Cliffs PURNANGA,NSW,5,2880,Within 100 metres,206,KU8F,26
+11210,-29.74117,146.865291,Telstra DRCS Base BIRRALEE,NSW,5,2839,Unknown,117,LU5L,24
+11217,-29.735767,144.393673,Telstra Radio Terminal Ti Tree via BOURKE,NSW,5,2840,Unknown,104,KU6J,26
+11222,-29.704819,144.149816,"NSWPF 30m Monopole Wanaaring Police Station, off Vicary Street WANAARING",NSW,5,2840,Within 10 metres,103,KU6I,32
+11224,-29.317877,145.845691,"NSWPF 23m Monopole Enngonia Police Station, 21 Belalie St ENNGONIA",NSW,5,2840,Within 10 metres,127,LU4H,28
+11238,-30.36298,145.00481,Telstra Site Landsdowne R/T 101 Plan 778074 Yanderoo Tara Rd BOURKE,NSW,5,2840,Within 10 metres,129,LU7E,28
+11240,-29.272341,145.657863,Telstra Radio Terminal Tarwoona Downs via BOURKE,NSW,5,2840,Unknown,130,LU4G,44
+11273,-30.19891,146.23943,Telstra Site Mount Oxley BOURKE,NSW,5,2840,Within 100 metres,301,LU8A,22
+11274,-29.764141,145.560273,Telstra Radio Terminal Lower Lila North of BOURKE,NSW,5,2840,Within 100 metres,146,LU4O,24
+11275,-30.089448,145.936381,Telstra Exchange 47 Oxley St BOURKE,NSW,5,2840,Within 10 metres,undefined,LU7D,66
+11282,-31.681772,149.838814,Comms Tower Adj Oakey Trig  Off Mullaley-Coolah Rd COOLAH,NSW,4,2843,Within 10 metres,1100,MV2L,24
+11283,-31.776037,149.726407,NSWPF 30m Lattice Tower off Pindari Rd COOLAH,NSW,4,2843,Within 100 metres,844,MV2O,31
+11287,-32.021736,149.394512,Essential Energy 30m Lattice Tower Bullinda Street DUNEDOO,NSW,4,2844,Within 100 metres,425,MV5B,501
+11312,-32.825839,150.35081,OEH 36m Lattice Tower Mount Coricudgy Wollemi National Park WIDDEN,NSW,4,2328,Unknown,1258,MV6N,18
+11344,-32.617082,149.553799,"Mid-Western Regional Council 20m Lattice Tower Mount Misery, 441 Mount Misery Rd MUDGEE",NSW,4,2850,Within 100 metres,833,MV5K,75
+11346,-32.442613,149.562262,Telstra Radio Terminal Magpie Hill via Moonamby 22km North of MUDGEE,NSW,4,2852,Within 10 metres,669,MV5G,64
+11358,-32.90296,148.38151,"NSWRFS 37m Guyed Mast Kadina Trig, off 703 Burrill Creek Rd ALECTOWN",NSW,4,2870,Within 100 metres,707,MV4N,33
+11365,-33.136432,148.173364,Telstra Exchange PARKES,NSW,4,2870,Unknown,349,MV7A,94
+11379,-33.386327,148.007003,Telstra Exchange FORBES,NSW,4,2871,Unknown,232,MV7E,76
+11390,-33.144822,146.762095,Telstra Radio Terminal Gas Pipeline Delladale LAKE CARGELLIGO,NSW,5,2672,Within 100 metres,255,LV8D,12
+11391,-32.478286,146.826666,Country Energy Site YELLOW MTN,NSW,5,2877,Within 100 metres,557,LV5H,38
+11394,-33.078147,147.15673,Broadcast Australia Site Reservoir Hill  Brady St CONDOBOLIN,NSW,4,2877,Within 10 metres,238,LV9A,80
+11397,-31.63372,144.73862,Telstra Radio Terminal KORREO,NSW,5,2835,Within 10 metres,222,KV3K,44
+11442,-31.58581,142.79966,Telstra Site Andersons Hill LITTLE TOPAR,NSW,5,2880,Within 10 metres,232,KV1L,50
+11444,-32.048149,141.171758,NSWPF 30m Lattice Tower off 3905 Barrier Hwy BROKEN HILL,NSW,5,2880,Within 10 metres,367,JV6A,36
+11470,-32.393536,142.417298,NSWPF 30m Lattice Tower Police Station 36 Yartla St MENINDEE,NSW,5,2879,Within 10 metres,61,KV4F,26
+11477,-31.485694,141.612202,Telstra site 53 km NNE of Broken Hill MOUNT DERING,NSW,5,2880,Within 100 metres,428,JV3G,26
+11479,-29.912409,141.563476,Telstra Site Mount Shannon via Silver City Highway MILPARINKA,NSW,5,2880,Within 100 metres,329,JU6O,18
+11500,-32.190142,142.970708,Telstra Repeater North Menindie Eastside River BARRAROO,NSW,5,2836,Within 100 metres,73,KV4D,16
+11542,-35.529552,148.772605,Commsite 42 km SW of Canberra MT GININI,ACT,4,2620,Within 10 metres,1747,MW4L,117
+11840,-34.321476,142.391353,Mildura Rural City Council 60m Lattice Tower off Sturt Hwy PARINGI,NSW,4,2738,Unknown,45,KW1F,49
+11953,-36.40601,146.94112,VIC DELWP 40m Lattice Tower off Mt Big Ben Rd YACKANDANDAH,VIC,4,3749,Within 10 metres,1162,LW8H,49
+12088,-37.111823,148.897514,Telstra Site MT DELEGATE,VIC,4,3888,Within 10 metres,1283,MX1D,243
+34521,-36.252362,149.07897,NSWPF 30m Lattice Tower off Mount Gladstone Rd COOMA,NSW,4,2630,Within 10 metres,1060,MW8E,89
+34780,-33.868443,147.382238,Comm Site Booberoi Hills via WYALONG,NSW,4,2671,Unknown,311,LV9N,67
+34885,-30.33153,152.920844,Vertel Site 20.5 km WSW of Coffs Harbour MT WONDURRIGAH,NSW,4,2450,Within 100 metres,748,NU8H,131
+34911,-28.678457,153.597442,NSW Rural Fire Service Site Coopers Shoot BYRON BAY,NSW,4,2481,Within 10 metres,108,NU3K,25
+34919,-34.635539,149.350256,"NSWRFS 40m Lattice Tower Mt Mary, off 1720 Grabben Gullen Rd GURRUNDAH",NSW,4,2581,Within 10 metres,914,MW2J,61
+34920,-34.37493,146.92807,NSWPF 30m Lattice Tower off Beckom South Rd BECKOM,NSW,4,2665,Within 10 metres,308,LW2H,46
+34921,-34.6398,148.5899,Commsite MT BOBBARA,NSW,4,2584,Unknown,696,MW1K,56
+35030,-35.99452,146.38107,NSWPF 30M Lattice Tower Behind Water Reservoir  22-26 Tower St COROWA,NSW,4,2646,Within 10 metres,135,LW5N,247
+35103,-34.65598,144.95545,Transgrid 80m Guyed Mast off 1494 Jerilderie Rd HAY SOUTH,NSW,5,2711,Within 10 metres,95,KW3L,28
+35130,-33.53948,145.870175,Essential Energy 30m Lattice Tower Mt. Bootheragandra off Mitchells Rd HILLSTON,NSW,5,2675,Within 10 metres,434,LV7L,103
+35169,-35.725357,148.218439,Forestry Site GRANITES MTN,NSW,4,2653,Unknown,1423,MW4I,26
+35191,-36.220952,150.132198,Eurobodalla Shire Council 17m Water Reservoir 1 Garvan Ln NAROOMA,NSW,4,2546,Within 10 metres,3,MW9A,102
+35193,-37.121572,149.18679,"FCNSW 27m Lattice Tower Bombala Trig, Mcleods Rd BONDI FOREST",NSW,4,null,Unknown,970,MX2A,20
+35411,-34.88233,147.56784,Axicom 40m Monopole 100 Albert St JUNEE,NSW,4,2663,Unknown,undefined,LW3O,908
+35504,-35.6163,148.331463,"Multiple Monopoles, Big Talbingo Mtn Talbingo Mountain Trail TALBINGO",NSW,4,2720,Within 10 metres,1304,MW4J,100
+35505,-30.068706,148.180766,"RMS 100m Guyed Mast Trilby Park, 746 Come By Chance Rd WALGETT",NSW,5,2832,Unknown,132,MU7A,6
+35506,-33.71766,151.218779,NSW Telco Authority 25m monopole Adjacent southern water reservoir 209 Forest Way BELROSE,NSW,2,2085,Unknown,184,NV7I,56
+35516,-33.98011,145.70946,"NSWPF 30m Lattice Tower Goolgowi Police Station, Cnr of Stipa & Farrer St GOOLGOWI",NSW,5,2652,Within 10 metres,121,LV7O,39
+35608,-36.031309,144.797561,Old Deniliquin Rd 10km Nth of MOAMA,NSW,4,2731,Unknown,93,KW9D,39
+35613,-34.751195,146.567489,Narrandera Shire Council 51m Lattice Tower Water Reservoir Cnr Gordon & Broad St NARRANDERA,NSW,4,2700,Within 10 metres,196,LW2O,58
+35619,-32.617478,144.048319,Essential Energy 65m Guyed Mast Springdale Property off Cobb Hwy IVANHOE,NSW,5,2878,Within 10 metres,105,KV6I,18
+35651,-30.687,150.9825,NBN Site Melrose Roseneath Road MANILLA,NSW,4,2352,Unknown,985,MU9L,20
+35653,-30.284506,150.167542,Broadcast Australia Site  MOUNT DOWE,NSW,4,2390,Within 10 metres,undefined,MU9E,95
+35672,-29.497638,150.580598,"30m Essential Energy Lattice Tower Three Mile Hill, 548 Warialda Rd WARIALDA",NSW,4,2402,Within 10 metres,508,MU6G,111
+35673,-29.807612,150.278748,Country Energy/NPWS Site THE TOPS,NSW,4,2404,Unknown,674,MU6N,30
+35685,-30.37702,151.60193,Telstra Tower Little Duval Mtn  Exmouth Rd DUMARESQ,NSW,4,2350,Within 10 metres,1354,NU7G,46
+35716,-33.986459,151.240347,Telstra Maritime Coast Station Jennifer Street LA PEROUSE,NSW,2,2036,Within 10 metres,50,NV7M,113
+35778,-33.829224,148.697105,Telstra Cowra Radio Terminal BELLEVUE HILL,NSW,4,2794,Unknown,375,MV7O,88
+35858,-35.55645,146.16609,"NSWPF 30m Monopole Oaklands Police Station, Cnr Coreen St & Young St OAKLANDS",NSW,4,2646,Within 10 metres,144,LW5I,24
+35878,-30.198633,146.239819,"NSWPF 25m Lattice Tower Mt Oxley, off Kamilaroi Hwy BOURKE",NSW,5,2840,Within 10 metres,301,LU8A,28
+35895,-35.161008,150.730582,Bherwerre Trig Bherwerre Road JERVIS BAY,NSW,4,2541,Within 100 metres,159,MW6C,23
+35905,-30.078565,152.619576,"TransGrid 45.7m Lattice Tower Shaes Knob, off Ellis Road CLOUDS CREEK",NSW,4,2450,Within 10 metres,780,NU8C,77
+35945,-33.844171,147.73826,NSWPF 30m Lattice Tower Caragabal Police Station Wyalong St CARAGABAL,NSW,4,2810,Unknown,231,LV9O,23
+36257,-28.242507,153.511359,Comms 30m Tower  Telstra Site 5 Sunnycrest Drv TERRANORA,NSW,2,2486,Within 10 metres,99,NU3C,138
+36669,-33.403106,151.393883,Tower 2 MT ELLIOT,NSW,2,2250,Within 10 metres,160,NV7F,102
+36827,-34.021066,144.166303,Telstra Radio Terminal OXLEY,NSW,5,2711,Unknown,78,KW3A,8
+36835,-32.802989,150.902031,Telstra Site Little Darkey Off Putty Road Via HOWES VALLEY,NSW,4,2330,Within 10 metres,312,MV6P,32
+36900,-32.871762,149.989512,Broadcast Australia Site  CUMBER MELON MTN,NSW,4,2848,Within 10 metres,1042,MV5P,38
+37161,-34.212712,144.575846,Telstra Radio Terminal ONE TREE,NSW,5,2711,Unknown,80,KW3C,16
+37721,-33.810068,142.059331,Telstra Site Wentworth-Pooncarie Road PALINYEWAH,NSW,5,2648,Within 10 metres,38,KV7M,18
+37938,-29.832215,145.008258,Telstra 130m guyed mast 759 Merita Myroolia Road FORDS BRIDGE,NSW,5,2840,Unknown,104,LU4M,22
+37943,-32.218189,147.333344,Television Translator TOTTENHAM,NSW,5,2873,Within 10 metres,230,LV6B,46
+38429,-32.480931,146.827427,Telstra Site YELLOW MTN,NSW,5,2877,Unknown,533,LV5H,46
+39024,-35.26832,146.38201,Federation Council 40m Lattice Tower Lot 96 Cullivel Rd URANA,NSW,4,2645,Within 10 metres,141,LW5F,30
+39121,-35.043954,149.599475,NSWPF 20m Lattice Tower Cowley Hills via 2574 Collector Rd TARAGO,NSW,4,2580,Within 10 metres,924,MW5C,23
+39389,-28.379025,153.452857,SRA Tower Cooradilla Rd BURRINGBAR,NSW,4,2484,Within 10 metres,225,NU3F,24
+40066,-34.13089,147.28057,"TfNSW 30m Lattice Tower Wargin Hill, off Wargin Trig Access Rd BARMEDMAN",NSW,4,2668,Within 10 metres,339,LW3B,72
+40150,-33.841151,151.207012,North Sydney Railway Station (Underground) & Tunnel  NORTH SYDNEY,NSW,2,2060,Within 10 metres,undefined,NV7M,28
+40499,-34.623543,150.694541,FM/Comms Mast BAI Comms Site  233 Knights Hill Road KNIGHTS HILL,NSW,2,2533,Within 10 metres,766,MW3K,36
+40743,-33.807497,151.300623,Broadcast Site Sewage Treatment Plant MANLY,NSW,2,2095,Within 100 metres,77,NV7N,25
+41059,-35.281925,150.342589,Communications Site Little Forest Trig MILTON,NSW,4,2538,Within 10 metres,538,MW6F,32
+41209,-30.965935,151.630473,BAI Comms Site Clive Blakes Hill  off Ohio Rd WALCHA,NSW,4,2354,Within 10 metres,undefined,NU7O,22
+46377,-35.93307,147.6001,NSWPF 40m Lattice Tower Jingellic Trig Woomargama National Park off Tower Trial Talmalmo WOOMARGAMA,NSW,4,2644,Within 100 metres,998,LW6O,56
+48655,-31.35176,151.37373,NSWPF/Council 24m Lattice Towner and NSWPF 10.5m Lattice Tower Mt Fairview off Nowendoc Rd NIANGALA,NSW,4,2354,Within 100 metres,1270,NV1F,42
+49534,-33.814269,151.001194,2-12 Macquarie St Marsden St side of Gov. offices PARRAMATTA,NSW,2,2150,Within 10 metres,21,NV7M,112
+50112,-28.178491,153.534723,Broadcast Australia 18m Monopole Razorback Road TWEED HEADS,NSW,2,2485,Within 10 metres,undefined,NU3C,32
+50393,-35.357989,147.15798,RFS site BULLOC BULLOC HILL,NSW,4,2644,Unknown,488,LW6E,16
+50451,-33.55774,143.913998,Telstra DRCS Base MIN MIN,NSW,5,2715,Within 100 metres,86,KV8L,8
+50491,-28.977764,151.475057,Comm Site Riversdale GLEN LYON DAM,QLD,4,4380,Unknown,569,NU1N,44
+51078,-35.150205,149.289363,Axicom 50m Lattice Tower via 135 Shepherd Rd BYWONG,NSW,4,2620,Within 10 metres,835,MW5B,192
+51761,-33.45232,151.20104,RMB 1158 Pacific Hwy MOUNT WHITE,NSW,2,2250,Unknown,222,NV7E,146
+51772,-33.93909,151.25355,Indara 25m Monopole Maroubra Reservoir 7-23 Amour Ave MAROUBRA,NSW,2,2035,Within 10 metres,51,NV7N,104
+51791,-33.387549,151.468127,Axicom 25m Monopole and Central Coast Council 20m Water Tank 48 Berne St BATEAU BAY,NSW,2,2261,Within 10 metres,57,NV7F,300
+52905,-35.012797,148.581805,NSWPF 30m Lattice Tower and WaterNSW 20m Lattice Tower Mt Black Andrew near Burringjuck Dam WEE JASPER,NSW,4,2582,Within 10 metres,905,MW4C,26
+53546,-34.084768,151.015622,Reservoir Bottle Forest Road HEATHCOTE,NSW,2,2233,Within 10 metres,228,NW1A,170
+53560,-32.553258,151.141579,Common Cmts Site Bowers Crane Yard Hambledon Hill Road SINGLETON,NSW,4,2330,Within 10 metres,119,NV4I,1116
+53656,-34.035562,151.099462,Lift Motor Room Miranda Fair Carpark 600 The Kingsway MIRANDA,NSW,2,2228,Within 10 metres,undefined,NW1A,2
+53794,-33.774832,150.627753,Optus/Vodafone & GRN Towers Cnr Emu & Hodgson Rd GLENBROOK,NSW,2,2773,Within 10 metres,194,MV9O,207
+54068,-31.274154,149.05998,Council Site Siding Spring via COONABARABRAN,NSW,4,2357,Unknown,1026,MV2E,29
+55315,-33.729434,151.292333,Broadcast/Comms Monopole  Crown Castle Site Plateau Park  off Blandford St COLLAROY PLATEAU,NSW,2,2097,Within 10 metres,90,NV7J,217
+55601,-34.778155,148.830946,Bowning Hill Trig YASS,NSW,4,2582,Within 10 metres,777,MW1P,1277
+55602,-34.827649,149.042951,Trig Station 12 km E of Yass MT MUNDOONEN,NSW,4,2582,Unknown,768,MW2M,107
+55638,-34.340929,150.555324,Optus/Hutchison Site Remembrance Drive YANDERRA,NSW,2,2575,Unknown,468,MW3G,163
+100041,-34.027438,151.0803,Sydney Electricity Port Hacking Substation Dudly Street KIRRAWEE,NSW,2,2232,Within 10 metres,52,NW1A,154
+100406,-35.530623,149.51789,NSWPF 30m Lattice Tower Mt Cronin off Tower Rd CAPTAINS FLAT,NSW,4,2623,Within 10 metres,1189,MW5K,120
+100618,-35.735517,150.16988,Indara 30m Lattice Tower Round Hill off Princes Hwy BATEMANS BAY,NSW,4,2536,Within 100 metres,141,MW6I,528
+100685,-33.992034,149.301967,NSWPF 15m Lattice Tower off 6063 Abercombie Rd TUENA,NSW,4,2583,Within 10 metres,747,MV8N,36
+100712,-37.011172,149.88985,PJ OBrien / Optus site 6 km NNW of Eden BIMMIL HILL,NSW,4,2549,Within 10 metres,306,MX2D,100
+100750,-32.771097,147.576671,"Essential Energy 28m Guyed Mast Gobondry Trig, via Gillenbine Rd TRUNDLE",NSW,5,2875,Within 10 metres,396,LV6O,36
+100797,-34.277103,146.057769,Pioneer Park Museum Scenic Drive GRIFFITH,NSW,4,2680,Unknown,188,LW2E,65
+100877,-33.84859,149.45166,Bathurst Regional Council 40m Lattice Tower Mt Ryan TRIANGLE FLAT,NSW,4,2795,Within 10 metres,1048,MV8N,56
+100887,-35.139176,146.039052,NSWPF 60m Guyed Mast 274 Arrawidgee Rd MORUNDAH,NSW,4,2700,Within 10 metres,112,LW5A,32
+100997,-35.997808,145.996998,"NSWPF 50m Lattice Tower Mulwala Reservoir, off Lucan St MULWALA",NSW,4,2647,Within 100 metres,136,LW4P,46
+101353,-33.796391,151.178976,Vodafone Site 12 Help St CHATSWOOD,NSW,2,2067,Unknown,110,NV7M,51
+101426,-33.893647,150.935636,Hutchison Site Cabramatta Freedom Markets Hughes St CABRAMATTA,NSW,2,2166,Within 100 metres,17,MV9P,232
+102257,-35.289111,147.430014,"Wagga Wagga City Council 38m Lattice Tower Mt Flakney, 550 Flakney Rd BIG SPRINGS",NSW,4,2650,Within 10 metres,534,LW6F,53
+130018,-33.69319,150.57596,Indara 30m Monopole 39A Hawkesbury Rd SPRINGWOOD,NSW,2,2777,Within 10 metres,334,MV9K,275
+130159,-30.945751,151.14507,"Indara 41.1m Lattice Tower Moonbi Trig, 24 Bullimbulla Rd BENDEMEER",NSW,4,2353,Unknown,1269,NU7M,116
+130209,-31.499467,145.837048,Telstra Exchange 47 - 49  Linsley St COBAR,NSW,5,2835,Within 10 metres,241,LV1L,72
+130218,-29.320597,151.902698,AXICOM 53m Lattice Tower Mt Welcome off New England Hwy via Deepwater BOLIVIA,NSW,4,2372,Unknown,1110,NU4H,42
+130220,-29.086143,151.966348,Tenterfield Council 40m Lattice Tower Mount MacKenzie Lookout Rd TENTERFIELD,NSW,4,2372,Within 10 metres,1295,NU4D,132
+130305,-35.348773,150.453449,Shoalhaven City Council 50m Lattice Tower White Gum Road ULLADULLA,NSW,4,2538,Within 10 metres,49,MW6F,194
+130823,-36.252001,149.079035,Optus Tower 4.4 km WSW of Cooma MT GLADSTONE,NSW,4,2630,Unknown,1068,MW8E,1094
+131085,-33.585698,150.258044,Vodafone Site SRA Railway Yards off Patrick Street MOUNT VICTORIA,NSW,4,2786,Unknown,1013,MV9J,149
+131105,-35.085058,150.678449,Shoalhaven City Council 50m Lattice Tower St George Avenue VINCENTIA,NSW,4,2541,Within 10 metres,87,MW6C,353
+131126,-35.1655,150.445243,Vodafone site Mondayong Forest Road JERRAWANGALA,NSW,4,2541,Unknown,142,MW6B,84
+131852,-36.668149,149.555198,Telstra CDMA Lookout Lane off Snowy Mtns Hwy BEMBOKA,NSW,4,2550,Within 10 metres,324,MW8K,48
+131897,-33.583914,148.667849,CDMA Telstra Canowindra Off George Russel Drive CANOWINDRA,NSW,4,2804,Within 10 metres,388,MV7K,654
+131932,-34.722414,150.54461,Broadcast/Comm Site Clover Hill Upper River Rd Barrengar KANGAROO VALLEY,NSW,4,2577,Within 10 metres,125,MW3K,791
+132540,-32.37791,152.501782,Telstra Site Water Reservoir Macwood Rd SMITHS LAKE,NSW,4,2428,Within 10 metres,51,NV5G,60
+132788,-31.367282,148.48845,Telstra Site Misery Farm Castlereagh Hwy GULARGAMBONE,NSW,5,2828,Within 10 metres,undefined,MV1F,42
+133179,-32.196295,150.475846,Telstra Site Golden Highway SE of MERRIWA,NSW,4,2329,Within 10 metres,undefined,MV6B,42
+134145,-33.794538,151.137952,North Ryde Metro Station (Underground)  NORTH RYDE,NSW,2,2113,Within 10 metres,undefined,NV7M,30
+134146,-33.785033,151.128547,Macquarie Park Metro Station (Underground)  MACQUARIE PARK,NSW,2,2113,Unknown,undefined,NV7M,24
+135471,-34.191993,142.169039,Indara 47.5m Lattice Tower behind 55A Eighth St MILDURA,VIC,4,3500,Within 10 metres,undefined,KW1A,76
+135549,-33.889224,151.22457,Optus Site Aussie Stadium West Driver Avenue MOORE PARK,NSW,2,2021,Within 10 metres,undefined,NV7M,30
+136295,-33.81517,151.178623,Telstra GRN Site Lane cove tunnel ventilation tower Marden street ARTARMON,NSW,2,2064,Within 10 metres,undefined,NV7M,8
+136472,-35.87653,149.06412,NSWTA 32m Lattice Tower Mt Clear off Mount Clear Firetrail BUMBALONG,NSW,4,2620,Within 10 metres,1529,MW5M,40
+136717,-33.812319,151.001575,Parramatta Justice Precinct Cnr George and Marsden Sts PARRAMATTA,NSW,2,2150,Within 100 metres,undefined,NV7M,14
+137433,-34.784704,149.91419,"NSWTA 25m Monopole Egans Hill, via Tiyces Ln BOXERS CREEK",NSW,4,2580,Within 100 metres,828,MW2P,23
+138680,-34.656487,150.30618,Bundanoon Reservoir  BUNDANOON,NSW,4,2578,Within 10 metres,698,MW3J,7
+140143,-36.867106,149.903439,RBA Tower Merimbula Sapphire Coast Drive TURA BEACH,NSW,4,2548,Within 100 metres,151,MW8P,24
+142658,-34.799564,150.57767,New Tower Cambewarra Lookout CAMBEWARRA MOUNTAIN,NSW,4,2535,Within 10 metres,undefined,MW3O,72
+150294,-33.70276,149.83937,Telstra Site Falls Hill Abercrombie Road OBERON,NSW,4,2787,Within 10 metres,1165,MV8L,123
+150950,-35.664774,149.774516,Private Owner 29.5m Monopole Shellharbour Hill off 604 Neringla Rd ARALUEN,NSW,4,2622,Unknown,undefined,MW5L,16
+151130,-33.48724,150.159703,Broadcast Australia Site Bracys Lookout off Hassans Walls Rd LITHGOW,NSW,4,2790,Within 10 metres,undefined,MV9E,5
+151148,-33.249693,148.336941,Parkes Broadcasting Co 56.4m Lattice Tower Mt Coonambro off Amaroo Way COOKAMIDGERA,NSW,4,2870,Within 10 metres,undefined,MV7F,39
+151264,-31.515123,150.666233,Broadcast Site WHO DA THOUGHT IT HILL,NSW,4,2343,Unknown,487,MV3K,72
+151278,-31.34266,149.02325,Broadcast Tower BAI Comms Site  Mt Cenn Cruaich Access Road MT CENN CRUAICH,NSW,4,2357,Within 10 metres,undefined,MV2E,90
+151367,-28.993301,149.016305,Broadcast Site 3km SE of MUNGINDI,NSW,5,2405,Unknown,162,MU2M,44
+153528,-28.234736,153.28894,40m tower NRN Broadcast Site Bilbrough Lookout SPRINGBROOK,QLD,2,4213,Within 10 metres,952,NU3B,87
+198028,-34.812797,148.501445,Beremangera Hill BEREMANGERA,NSW,4,2582,Unknown,700,MW1O,126
+198029,-35.109125,148.121935,Optus Site Gundagai Trig GUNDAGAI,NSW,4,2722,Unknown,560,MW4A,262
+198043,-32.060282,152.377668,Indara 60m Lattice Tower Mt Talawahl via Candoormakh Creek Rd NABIAC,NSW,4,2430,Within 10 metres,undefined,NV5B,138
+198308,-32.517635,152.184598,Nerong State Forest No 49 off Pacific Highway NERONG,NSW,4,2423,Unknown,156,NV5I,68
+198325,-28.933665,153.422517,"Axicom 53m Lattice Tower Buckombil Mountain, 140 Buckombil Mountain Rd MEERSCHAUM VALE",NSW,4,2477,Within 10 metres,157,NU3N,1250
+200478,-33.253202,151.283787,"NSWTA 30m Lattice Tower Bumble Hill, Cnr Bradley Ln & Forest Rd WYONG CREEK",NSW,2,2250,Within 10 metres,297,NV7F,52
+200480,-33.211672,151.152626,NSWTA 55m Lattice Tower Boomerang Point Rd via Mangrove Dam Rd BOOMERANG RIDGE,NSW,2,2250,Within 10 metres,266,NV7A,36
+200506,-33.819974,148.160327,Warraderry Range Site 2 WARRADERRY,NSW,4,2810,Within 10 metres,520,MV7M,23
+200514,-34.336316,150.165254,Telstra Hcrc Repeater West Bullio Hill BULLIO,NSW,4,2575,Unknown,799,MW3E,44
+200589,-29.669444,147.616267,SES/Broadcast Site Glengarry Opal Fields GRAWIN,NSW,5,2832,Unknown,141,LU6K,6
+200823,-33.238824,150.648146,"20m Monopole, Grassy Hill, 5108 Putty Rd COLO HEIGHTS",NSW,4,2775,Within 10 metres,undefined,MV9C,11
+200836,-33.865717,151.205964,Wynyard Railway Station (Underground)  SYDNEY,NSW,2,2000,Unknown,undefined,NV7M,37
+200837,-33.873733,151.206757,Town Hall Railway Station (Underground) George St SYDNEY,NSW,2,2000,Unknown,undefined,NV7M,20
+200838,-33.870459,151.211877,St James Railway Station (Underground) Elizabeth St SYDNEY,NSW,2,2000,Unknown,undefined,NV7M,33
+200839,-33.876098,151.209858,Museum Underground Rail Station SYDNEY,NSW,2,2000,Unknown,undefined,NV7M,34
+200844,-35.037477,144.456371,Edward River Shire Council / NSWRFS 37m and 40m Lattice Towers off 3711 Wanganella-Moulamein Rd WANGANELLA,NSW,4,2710,Within 10 metres,76,KW6B,28
+200871,-33.84642,151.069776,Olympic Park Railway Station (Underground) Comms room p401 SYDNEY OLYMPIC PARK,NSW,2,2140,Within 10 metres,undefined,NV7M,30
+200895,-32.255821,148.923709,RFS/Council Site Cumbarella ALTON PARK,NSW,4,2830,Unknown,416,MV4H,9
+200896,-32.053404,148.62927,RFS site MOGRIGUY,NSW,4,2830,Unknown,340,MV4C,9
+200999,-33.883503,151.284189,NSWTA 28.3m Monopole Hugh Bamford Reserve Wentworth St NORTH BONDI,NSW,2,2030,Unknown,undefined,NV7N,48
+201033,-33.563255,149.238673,Telstra 50m Lattice Tower Errol Trig BLAYNEY,NSW,4,2799,Within 10 metres,1033,MV8I,98
+201035,-33.698293,144.77755,Hay Shire Council / NSWRFS 90m Guyed Mast Toms Lake Station off Cobb Hwy BOOLIGAL,NSW,5,2711,Within 10 metres,91,KV9L,18
+201113,-33.817852,151.001359,Telstra Site Westfield (top of Lifts in Carpark) cnr Church & Argyle St PARRAMATTA,NSW,2,2150,Within 10 metres,undefined,NV7M,102
+201187,-34.19866,150.973912,Telstra/Optus Site Squash Centre Cemetery Rd HELENSBURGH,NSW,2,2508,Within 10 metres,300,MW3D,92
+201251,-33.450035,149.547074,AXICOM 47.8m Lattice Tower Reid Park MOUNT PANORAMA,NSW,4,2795,Unknown,869,MV8G,951
+201389,-33.044229,151.264477,"Forestry NSW 17.5m Lattice Tower Fire Lookout, Mount Warrawolong, Onley State Forest WATAGAN",NSW,2,2325,Within 10 metres,615,NV7B,27
+201431,-30.65215,152.96158,Axicom 55.2m Lattice Tower off Old Coast Rd NAMBUCCA HEADS,NSW,4,2448,Within 10 metres,43,NU8L,316
+201434,-33.966494,151.133834,St George Hospital Gray Street KOGARAH,NSW,2,2217,Unknown,23,NV7M,48
+201464,-35.567084,149.177358,"Axicom 62m Lattice Tower Gibraltar Hill, 998 Williamsdale Rd WILLIAMSDALE",NSW,4,2620,Unknown,1082,MW5I,82
+201613,-30.36908,148.489077,Essential Energy 80m Guyed Mast 5809 Come By Chance Rd COME BY CHANCE,NSW,5,2832,Within 10 metres,144,MU7F,61
+201617,-35.630823,150.221139,Benandarah Trig Big Bit Road Boyne State Forest BENANDARAH,NSW,4,2536,Unknown,227,MW6I,28
+201622,-34.407278,149.891601,Goulburn Mulwaree Council 30m and 40m Lattice Towers off Bannaby Road BANNABY HILL,NSW,4,2580,Within 10 metres,949,MW2H,48
+201625,-35.245208,150.437983,Lake Conjola National Park off Cornfields lane YATTEYATTAH,NSW,4,2538,Within 10 metres,104,MW6B,1047
+201640,-31.506,150.0179,NSWPF 30m Lattice Tower off 770 Woods Ln YANNERGEE,NSW,4,2343,Within 10 metres,790,MV3I,50
+201650,-34.105163,148.93828,NSWTA 30m Lattice Tower Mt Darling off Mount Darling Rd REIDS FLAT,NSW,4,2794,Within 10 metres,827,MW1D,52
+201794,-33.770348,150.906058,Westpoint Blacktown Patrick and Alpha Streets BLACKTOWN,NSW,2,2148,Unknown,undefined,MV9P,28
+201821,-34.818947,148.729035,"Axicom 50.5m Lattice Tower Black Trig, off Paynes Rd BOOKHAM",NSW,4,2582,Unknown,841,MW1O,66
+201832,-30.632598,151.502479,Axicom 35.6m Monopole 34 Pomona Rd URALLA,NSW,4,2358,Unknown,1011,NU7K,482
+201854,-33.861548,150.854947,Axicom 102.7m Lattice Tower 77-89 Border Rd HORSLEY PARK,NSW,2,2164,Within 10 metres,142,MV9P,391
+201856,-32.73248,148.76816,"Essential Energy 30m Lattice Tower Karuga Park, off Bournewood Rd BOURNEWOOD",NSW,4,2868,Within 10 metres,562,MV4L,55
+201872,-36.10753,146.73039,Indara 32.75m Lattice Tower Mt Lady Franklin via 292 Oates Gap Rd BARNAWATHA NORTH,VIC,4,3688,Within 100 metres,493,LW8C,76
+201964,-33.021275,141.651824,"NSWTA 115m Guyed Mast Coombah, off Silver City Hwy SCOTIA",NSW,5,2648,Within 10 metres,53,JV9C,48
+201984,-33.520252,150.620627,Council Tower Warks Hill Rd KURRAJONG HEIGHTS,NSW,2,2758,Within 10 metres,503,MV9K,49
+202081,-33.945998,149.529687,33 Rockley Street BURRAGA,NSW,4,2795,Unknown,911,MV8O,5
+202159,-29.110539,153.258093,Moonimba Trig off Boggy Creek Road WOODBURN,NSW,4,2471,Unknown,138,NU6B,99
+202182,-29.407405,146.685475,NSWRFS 60m Guyed Mast Cartlands Station East Culgoa Rd COLLERINA,NSW,5,2839,Within 10 metres,117,LU5G,14
+202183,-29.289347,147.389853,"NSWRFS / Brewarrina Shire Council 60m Guyed Mast Muckerawa, 10131 Goodooga Rd GOODOOGA",NSW,5,2838,Within 10 metres,133,LU6F,24
+202200,-34.145626,149.749788,"NSWRFS 40m Lattice Tower Mt Defiance, 6660 Abercrombie Rd PALING YARDS",NSW,4,2787,Unknown,990,MW2C,36
+202230,-32.216983,152.303129,Wattle Downs 1196 Willina Rd COOLONGOLOOK,NSW,4,2423,Unknown,262,NV5B,542
+202250,-33.906232,151.202623,Green Square Railway Station (Underground)  ALEXANDRIA,NSW,2,2015,Within 10 metres,undefined,NV7M,18
+202251,-33.935427,151.166642,Sydney International Airport Railway Station (Underground)  MASCOT,NSW,2,2020,Unknown,6,NV7M,33
+202302,-33.885215,151.217775,Eastern Distributor Ventilation Building 4 Hutchinson Place SURRY HILLS,NSW,2,2010,Unknown,undefined,NV7M,10
+202305,-32.659441,151.829418,Vodafone site Wallaroo Hill Tower Road WALLAROO STATE FOREST,NSW,3,2324,Unknown,86,NV4L,70
+202461,-33.832987,148.378813,NSWRFS 46m Lattice Tower Warrumba Rd BUMBALDRY,NSW,4,2794,Unknown,668,MV7N,43
+202471,-33.90002,150.993344,Telstra Site 753 Hume Hwy BASS HILL,NSW,2,2197,Unknown,undefined,MV9P,12
+202677,-34.169084,150.969656,Indara 30m Lattice Tower Garrawarra Hospital 9 Princes Hwy HELENSBURGH,NSW,2,2508,Within 10 metres,295,MW3D,30
+202846,-33.111139,150.047896,Lithgow Council / NSWRFS 21m Lattice Tower Airley Turrent off Glen Davis Rd CAPERTREE,NSW,4,2846,Unknown,1005,MV9A,36
+202891,-31.321976,149.190101,"45m NSWTA Lattice Tower Bingie Grumble Mountain, 963 Bingie Grumble Rd TANNABAR",NSW,4,2357,Within 10 metres,809,MV2E,26
+203001,-34.16721,150.619063,Crown Castle Optus/Telstra Site off Remembrance Drive VAULT HILL,NSW,2,2571,Within 10 metres,undefined,MW3C,31
+203031,-33.854322,151.213015,Sydney Harbour Tunnel Radio Re-Broadcast Room KIRRIBILLI,NSW,2,2061,Unknown,undefined,NV7M,14
+203059,-33.889603,151.181731,King George V Hospital cnr Susan Street and Salisbury Rd CAMPERDOWN,NSW,2,2050,Within 10 metres,26,NV7M,91
+203101,-33.883318,151.207166,Concourse Central Railway Station SYDNEY,NSW,2,2000,Unknown,undefined,NV7M,34
+203146,-33.84301,151.06673,Light Pole RAS Showground HOMEBUSH BAY,NSW,2,2140,Within 10 metres,undefined,NV7M,80
+203147,-33.93725,151.152322,Motorway Control Centre March St ARNCLIFFE,NSW,2,2205,Unknown,undefined,NV7M,8
+203168,-29.986745,146.847027,Telstra Site Charlton Rd BREWARRINA,NSW,5,2839,Unknown,121,LU5P,34
+203347,-34.062029,151.153137,Brentwood Apartments 59-63 Ewos Parade CRONULLA,NSW,2,2230,Within 10 metres,undefined,NW1A,44
+203365,-34.263466,150.954711,30 m ESE of Existing Transgrid Tower MADDENS PLAINS,NSW,2,2515,Unknown,382,MW3H,10
+203482,-33.867964,151.208623,Vodafone/Telstra Site Underground Chamber in Martin Place near cnr Pitt St SYDNEY,NSW,2,2000,Unknown,undefined,NV7M,14
+203844,-32.126705,151.43034,NSWPF 21m Lattice Tower off Mount Allyn Rd UPPER ALLYN,NSW,4,2420,Within 10 metres,1071,NV4B,22
+204010,-35.79899,150.2216,Telstra site 12 Reservoir Rd MALUA BAY,NSW,4,2536,Within 10 metres,18,MW6M,64
+204040,-34.401865,150.856681,Telstra Police and Council site Queen Elizabeth Drive MT KEIRA,NSW,2,2525,Unknown,421,MW3H,94
+204194,-37.117778,149.505767,NSWPF 40m Lattice Tower off Letts Mountain Road YAMBULLA,NSW,4,2550,Within 10 metres,908,MX2C,41
+204212,-31.462772,152.324461,NSWTA 42m Lattice Tower Yarras Mountain Trail YARRAS,NSW,4,2446,Unknown,588,NV2F,44
+204247,-29.956118,149.915716,NSWPF 30m Lattice Tower Haystack Mountain BELLATA,NSW,4,2397,Within 10 metres,516,MU5P,25
+204301,-36.869488,149.89686,Telstra/Optus Site Council Waste Depot Sapphire Coast Drive TURA BEACH,NSW,4,2548,Within 10 metres,143,MW8P,124
+204302,-32.73184,148.198567,Wilga Downs Warrigal Rd PEAK HILL,NSW,4,2869,Within 10 metres,301,MV4I,88
+204307,-34.591223,143.166873,"Axicom 70m Guyed Mast Glen Ewan, off Sturt Hwy BALRANALD",NSW,5,2715,Within 10 metres,60,KW2I,52
+204310,-34.719753,143.896688,Axicom 60m Guyed Mast Willowvale 35812 Sturt Hwy KERI KERI,NSW,5,2715,Within 10 metres,77,KW2L,88
+204311,-34.643357,144.196121,"Axicom 60m Guyed Mast The Rookery - Jeraly Hill, off 32094 Stuart Hwy MAUDE",NSW,5,2711,Within 10 metres,75,KW3I,78
+204329,-35.795258,145.554023,Axicom 55m Lattice Tower off Silo Road TOCUMWAL,NSW,4,2714,Unknown,152,LW4O,74
+204331,-33.58568,147.78261,Axicom 59.15m Lattice Tower off Mount Tallabung Rd WIRRINYA,NSW,4,2871,Within 10 metres,508,LV9L,90
+204341,-30.803078,149.484306,AXICOM 90m Lattice Tower Pilliga East State Forest off Newell Hwy NARRABRI,NSW,4,2357,Within 10 metres,353,MU8N,51
+204342,-34.688455,150.034842,Axicom 55m Lattice Tower off 15108 Hume Hwy MARULAN,NSW,4,2579,Within 100 metres,674,MW3I,109
+204373,-30.868094,144.412664,Telstra HCRC Site MT THOOLABOOL,NSW,5,2840,Within 100 metres,149,KU9N,10
+204397,-36.08823,150.056904,Axicom 40m Lattice Tower 20 Gannons Points Rd BODALLA,NSW,4,2545,Within 10 metres,45,MW9A,36
+204497,-31.06739,152.820708,Kempsey District Hospital Rooftop 117 River St WEST KEMPSEY,NSW,4,2440,Unknown,14,NV2D,28
+205166,-34.307943,149.994826,Telstra 45m Lattice Tower off Tallygang Mountain Rd WOMBEYAN CAVES,NSW,4,2575,Within 10 metres,786,MW2H,21
+205229,-28.823604,152.093511,NSWPF 40m Lattice Tower Boonoo Boonoo off 2738 Mount Lindesay Rd CARROLLS CREEK,NSW,4,2372,Within 10 metres,1053,NU2M,18
+205298,-34.648569,146.034012,"Transgrid 80m Lattice Tower Substation, 366 Donald Ross Dr DARLINGTON POINT",NSW,4,2706,Within 10 metres,128,LW2I,70
+205341,-33.872824,151.217851,Cross City Tunnel Motorway Control Centre 131 Cathedral St WOOLLOOMOOLOO,NSW,2,2011,Within 100 metres,undefined,NV7M,10
+205354,-30.747984,151.199643,"NSWRFS 20m Lattice Tower Turkey Mountain, off 1164 Airlie Stock Route Rd BENDEMEER",NSW,4,2355,Unknown,1164,NU7I,39
+205537,-35.873987,148.736664,"NSWOEH 17m Lattice Tower Big Bugtown Hill, off Boundary Trial KOSCIUSZKO NATIONAL PARK",NSW,4,2630,Within 10 metres,1622,MW4O,24
+205569,-34.97267,147.998433,Optus Reno Rd  14.4 km NW of Gundagai MT BURRA,NSW,4,2722,Unknown,715,LW3P,26
+205642,-33.924797,147.242373,Wyalong holding yard George Bland Avenue WYALONG,NSW,4,2671,Within 10 metres,242,LV9M,30
+205872,-35.2214,147.834915,NSWPF 50m Lattice Tower Mt Yaven off Hume Hwy MOUNT ADRAH,NSW,4,2729,Within 10 metres,undefined,LW6D,43
+205935,-33.776484,150.917494,Admin Bld Blacktown Hospital Blacktown Rd BLACKTOWN,NSW,2,2148,Within 10 metres,56,MV9P,168
+205971,-33.898289,149.849803,FCNSW 40m Lattice Tower Tower Road SHOOTERS HILL,NSW,4,2787,Within 10 metres,1341,MV8P,26
+206023,-28.626579,150.369912,Optus Site Lot 14 Bruxner Hwy BOGGABILLA,NSW,4,2409,Unknown,217,MU3J,50
+206196,-34.7567,149.763484,Win Digital TV Tower  MT GRAY,NSW,4,2580,Within 10 metres,786,MW2P,33
+250126,-33.015539,151.581417,Common Cmts Site Reservoir Off Mt Warring Rd TORONTO,NSW,3,2283,Within 10 metres,38,NV7C,73
+250155,-32.925772,151.180564,"NSWPF 25m Monopole, Mt Corrabare Round Mountain Fire Trail via Wollombi Rd CORRABARE",NSW,3,2325,Within 10 metres,309,NV4M,6
+250189,-32.375359,152.303202,Telstra Site Mount Chapman via BULAHDELAH,NSW,4,2423,Unknown,283,NV5F,76
+250287,-31.72803,148.65438,"Telstra Rooftop Site Emerald Hill Silo, 6452 Newell Hwy GILGANDRA",NSW,5,2827,Within 10 metres,278,MV1K,58
+250288,-32.232123,148.231008,Telstra/Optus Site Grain Corp Dandaloo Rd NARROMINE,NSW,4,2821,Within 10 metres,251,MV4A,78
+250487,-30.22294,149.43277,Telstra CMTS cnr Warrior & Boundary StS WEE WAA,NSW,4,2388,Within 10 metres,196,MU8B,60
+250533,-31.72741,151.7158,"NSWOEH 30m & 35m Lattice Towers Mt Myra, off Mount Myra Trail CURRICABARK",NSW,4,2422,Within 100 metres,1022,NV1K,45
+250651,-32.040125,151.403831,National Parks and Wildlife Site MOUNT BARRINGTON,NSW,4,2420,Unknown,1531,NV4B,36
+250713,-29.562939,150.458669,Council Site Mt Toolimbah  369 Toolimbah Rd WARIALDA,NSW,4,2402,Within 10 metres,542,MU6J,21
+280010,-29.01961,152.66273,NSWTA 40m Monopole Mount Pikapene Tower Rd DEEP CREEK,NSW,4,2440,Within 10 metres,undefined,NU5C,24
+280021,-30.814078,152.920305,"Axicom 53m Lattice Tower Way Way State Forest, off Tower Rd YARRAHAPINNI",NSW,4,2440,Within 10 metres,458,NU8P,110
+280038,-28.621165,152.510042,NSWTA 50m Lattice Tower and Kyogle Council 35m Guyed Mast Haystack Mountain off Pocupar Rd YABBRA,NSW,4,2470,Unknown,796,NU2K,93
+280078,-28.571032,153.070907,"NSWRFS 25m Lattice Tower  Homeleigh Mountain, Whites Rd HOMELEIGH",NSW,4,2474,Within 10 metres,525,NU3I,79
+280165,-31.341104,152.682409,Axicom Tower Axicom Site  Mt Cairncross  Lot 7001 Tower Trail CAIRNCROSS,NSW,4,2446,Within 100 metres,526,NV2G,636
+280211,-29.980814,153.108163,Vertel Site HALFWAY CREEK,NSW,4,2460,Unknown,286,NU6M,31
+280225,-29.348346,153.210808,Vodafone Telstra Site via Jacky Bulbin Rd Mororo WOOMBAH,NSW,4,2460,Unknown,216,NU6E,178
+280241,-29.12651,152.73995,"Northern River Communications 25m Guyed Mast and NSWOEH 35m Lattice Tower Pickabooba, off Mt Belmore Rd BUSBYS FLAT",NSW,4,2470,Unknown,569,NU5C,77
+302625,-36.361799,145.693806,Axicom 39.6m Lattice Tower 325 TV Access Rd MT MAJOR,VIC,4,3631,Within 10 metres,357,LW7G,598
+370251,-28.3996,153.45235,Vodafone Site Cooradilla Rd BURRINGBAR,NSW,4,2484,Unknown,223,NU3F,120
+370253,-28.521671,153.522894,Axicom 50m Lattice Tower Mudges Quarry  Banana Rd off 2362 Coolamon Scenic Dr OCEAN SHORES,NSW,4,2483,Within 10 metres,42,NU3K,81
+400390,-36.077661,146.915736,Albury City Council 553 Kiewa Street ALBURY,NSW,4,2640,Unknown,161,LW8D,133
+401767,-33.484552,151.159314,NSWRFS 30m Lattice Tower Mt White 2766 Hawkesbury River BAR POINT,NSW,2,2083,Within 10 metres,76,NV7E,15
+402002,-29.355086,153.079786,Macrocom Site Banyabba Gibberagee State Forest off Grafton-Casino Rd via MACLEAN,NSW,4,2463,Within 100 metres,243,NU6E,46
+402111,-36.86327,148.721232,NSWRFS 30m Guyed Mast Spicers Hill Trail off Corrowong Rd CORROWONG,NSW,4,2633,Within 10 metres,1090,MW7O,24
+402412,-29.473601,150.141756,RFS Brigade Station Pallamallawa 29 km E of MOREE,NSW,4,2399,Unknown,235,MU6E,9
+402871,-34.798287,145.874943,"Murrumbidgee Shire Council 76.6m Guyed Mast Argoon, off Kidman Way COLEAMBALLY",NSW,4,2707,Unknown,119,LW1P,77
+402959,-30.140914,152.525076,Northern Rivers Comms Site MT TUTING,NSW,4,2450,Unknown,1051,NU8C,19
+403010,-33.288634,149.266485,Rural Fires Site MT RAGAN,NSW,4,2800,Unknown,918,MV8F,19
+403796,-31.357388,149.794222,WARRUMBUNGLE SHIRE COUNCIL 24m Lattice Tower Tambar Mountain off Black Stump Way TAMBAR,NSW,4,2381,Within 10 metres,774,MV2H,33
+405103,-29.807878,150.276374,NSWPF 40m Lattice Tower off Gravesend Rd via Terry Hie Hie GRAVESEND,NSW,4,2397,Within 10 metres,667,MU6N,44
+405111,-30.957136,149.068421,Graincorp Silo Coonabarabran Rd BARADINE,NSW,4,2396,Within 100 metres,300,MU8M,12
+500670,-31.974577,141.454506,"Axicom 60m Lattice Tower Mullock Hill, Rasp Mine via Eyre St BROKEN HILL",NSW,5,2880,Within 10 metres,321,JV3N,106
+501104,-32.189089,142.971598,"Essential Energy 65m Guyed Mast Barraroo, off Wilcannia-Menindee Rd MENINDEE",NSW,5,2879,Within 10 metres,73,KV4D,18
+501114,-30.577267,141.975425,Essential Energy 45m Lattice Tower 19322 Silver City Hwy PACKSADDLE HILL,NSW,5,2880,Unknown,166,JU9L,16
+501511,-34.0845,142.0149,NSWRFS / Wentworth Shire Council 70m Guyed Mast off Keenans Drive COOMEALLA,NSW,4,2717,Within 10 metres,48,KW1A,69
+501825,-33.218746,143.628896,"Essential Energy 70m Guyed Mast Melton Grove Station, via Dockerty Rd ARUMPO",NSW,5,2715,Within 10 metres,133,KV8C,22
+502432,-34.041625,150.785775,NSWPF 31m Lattice Tower Badgelly Hill off Badgally Road GREGORY HILLS,NSW,2,2567,Within 10 metres,undefined,MW3D,40
+570407,-36.125392,144.753734,142 Anstruther St ECHUCA,VIC,4,3564,Unknown,96,KW9D,102
+9000798,-33.870535,151.208623,Security Office Centrepoint 100 Market St SYDNEY,NSW,2,2000,Within 10 metres,undefined,NV7M,18
+9001649,-33.797717,151.180752,Transport Interchange Complex  CHATSWOOD,NSW,2,2067,Within 10 metres,undefined,NV7M,12
+9003793,-28.82247,153.31725,Lismore Water Comms Tower Wyreema Avenue GOONELLABAH,NSW,4,2480,Within 10 metres,144,NU3N,44
+9004405,-32.336627,150.486646,National Parks & Wildlife Site Mt Dangar 8 km W of SANDY HOLLOW,NSW,4,2329,Within 10 metres,664,MV6F,22
+9004407,-30.598105,149.027098,"OEH 100m Guyed Mast Pilliga National Park, off Etoo Bore Rd GWABEGAR",NSW,4,2388,Within 10 metres,217,MU8I,22
+9004466,-33.09169,149.13857,"TransGrid 80m Lattice Tower, Mt Meehan  Mullions Range State Forest, via Tower Rd KERRS CREEK",NSW,4,2800,Within 100 metres,984,MV8A,47
+9004467,-33.645628,149.181726,Transgrid 80m Lattice Tower Mount Macquarie Road NEVILLE,NSW,4,2791,Within 100 metres,1192,MV8I,99
+9006931,-34.105392,148.939097,"TransGrid Site Mt Darling off Mt Darling Road, 80m E of trig station REIDS FLAT",NSW,4,2808,Within 10 metres,840,MW1D,24
+9007382,-29.006857,150.736159,NSWPF 40m Lattice Tower off Warialda Road YETMAN,NSW,4,2360,Within 10 metres,371,MU6C,44
+9007842,-35.00581,145.775001,"NSWRFS and Murrumbidgee Shire Council 30m Monopole Gala Vale, Cnr Cadell Rd & Mclennond Bore Rd JERILDERIE",NSW,4,2716,Within 10 metres,115,LW4D,29
+9008347,-28.968298,150.064704,Optus Mast Alawa Newell Highway MOREE,NSW,4,2400,Within 10 metres,220,MU3M,16
+9008366,-28.828219,153.471464,Northern Rivers Comms Site 77 Leadbeatters La ALSTONVILLE,NSW,4,2478,Within 10 metres,124,NU3N,15
+9008790,-35.947945,149.510779,"NSWOEH 30m Lattice Tower off Slap Up Firetrail, Gourock National Park JERANGLE",NSW,4,2630,Within 10 metres,1459,MW5O,32
+9009155,-35.30446,148.09449,Optus Tower Hayes Land off Snowy Mountains Hwy ADELONG,NSW,4,2729,Within 10 metres,486,MW4E,38
+9009182,-29.717306,143.929056,"NSWRFS 70m Guyed Mast Womparley Tank, off 14322 The Cut Line WANAARING",NSW,5,2840,Unknown,152,KU5L,38
+9009184,-29.737059,144.720724,"NSWRFS 70m Guyed Mast Minetta, off Dungarvan Rd WANAARING",NSW,5,2840,Within 10 metres,126,KU6K,38
+9009185,-34.224005,147.884545,RFS Site  Mt Weedallion Tubbul Road TUBBUL,NSW,4,2594,Within 10 metres,409,LW3D,24
+9010154,-33.812405,151.105806,Top Ryde City Retail Cnr Devlin St & Blaxland Dr RYDE,NSW,2,2112,Within 10 metres,undefined,NV7M,56
+9010565,-33.873041,151.203036,HV Electrical Tunnel - WEST beneath Druitt St SYDNEY,NSW,2,2000,Within 10 metres,undefined,NV7M,8
+9011012,-32.215428,148.570351,RFS Site Lot 10 Coreena Rd DUBBO,NSW,4,2830,Within 10 metres,280,MV4C,21
+9011223,-36.018461,144.969913,Optus Lattice Tower 11 Moor Street BARMAH,VIC,4,3639,Within 10 metres,92,KW9D,56
+9011962,-30.53539,151.142687,NSWPF 50m Lattice Tower via 3611 Kingstown Rd KINGSTOWN,NSW,4,2358,Within 10 metres,955,NU7I,24
+9012264,-30.730415,150.648646,"Optus 35m Monopole Mt Baldwin near Manila, off Rangari Rd NEW MEXICO",NSW,4,2346,Within 10 metres,877,MU9K,52
+9012641,-34.66353,148.05662,NSWTA 50m Lattice Tower 140 Turners Lane COOTAMUNDRA,NSW,4,2590,Within 10 metres,344,MW1I,21
+9012849,-34.286759,149.888741,OEH 30m Monopole Wombeyan Caves Road RICHLANDS,NSW,4,2580,Within 10 metres,966,MW2H,20
+9013071,-33.13842,151.202448,"NSWOEH 25m Monopole Depot, 9 Walker Ridge Rd BUCKETTY",NSW,2,2325,Within 10 metres,347,NV7A,19
+9013544,-32.328054,151.959015,Optus Lattice Tower Peppers Mountain 312 Johnsons Creek Road STROUD ROAD,NSW,4,2422,Within 10 metres,undefined,NV4H,278
+9014204,-35.458555,148.448442,NPWS site Off Goobarragandra Powerline Track Kosciuszko NP 1.7km NE of STALLION HILL,NSW,4,2720,Within 100 metres,787,MW4F,6
+9014511,-33.877245,151.187131,Glebe Light Rail Tunnel Corner Bridge Road and Bayview Street GLEBE,NSW,2,2037,Within 10 metres,undefined,NV7M,8
+9014614,-35.271209,147.116658,NSWPF 30m Monopole The Rock Police Station Cnr Emily & Nicholas Streets THE ROCK,NSW,4,2655,Within 10 metres,221,LW6E,21
+9014638,-30.951953,149.074416,Optus Tower  Baradine Liverpool Road BARADINE,NSW,4,2396,Within 10 metres,298,MU8M,40
+9014675,-30.109848,148.973582,Optus Site Burren Junction The Ponderosa Kamilaroi hwy BURREN JUNCTION,NSW,5,2386,Within 10 metres,164,MU7D,42
+9014877,-34.359053,150.480464,Optus Monopole adj Water Tank Off Tea Tree Crescent HILL TOP,NSW,2,2575,Within 10 metres,586,MW3F,50
+9015053,-33.952818,151.01247,"Ausgrid Monopole Revesby Substation, End of Tarro Avenue REVESBY",NSW,2,2212,Within 10 metres,undefined,NV7M,26
+9015158,-29.255732,150.656465,Essential Energy Againcourt Repeater Allandale Road  (9km NW of) COOLATAI,NSW,4,2402,Within 10 metres,527,MU6G,20
+9015246,-33.046976,145.395078,NSWRFS 24m and NSWTA 30m Lattice Towers Waranary Hill off Trida Rd ROTO,NSW,5,2877,Within 10 metres,305,LV7B,19
+9015414,-33.735999,150.983315,"NSWTA 35m Monopole, Kennards Self Storage 5 Packard Ave CASTLE HILL",NSW,2,2154,Within 10 metres,103,MV9L,24
+9015415,-33.734255,150.985817,Unit 4 / 11 Packard Ave CASTLE HILL,NSW,2,2154,Within 10 metres,97,MV9L,68
+9015683,-29.980846,153.108417,NSWRFS 45m Lattice Tower Gilmores Lane HALFWAY CREEK,NSW,4,2460,Within 10 metres,286,NU6M,36
+9015984,-31.086041,150.96693,"NSWRFS 40m Lattice Tower Flagstaff Mountain, via Eloura Rd EAST TAMWORTH",NSW,4,2340,Within 10 metres,831,MV3D,46
+9017175,-33.879805,151.212343,HV Electrical Tunnel - EAST beneath 201 Goulburn St SURRY HILLS,NSW,2,2010,Within 10 metres,undefined,NV7M,8
+9017195,-32.246237,148.605821,Convention Centre 143 Darling St DUBBO,NSW,4,2830,Within 10 metres,269,MV4C,4
+9017236,-32.025043,151.961216,Water Reservoir Cemetery Rd GLOUCESTER,NSW,4,2422,Within 10 metres,118,NV4D,24
+9017969,-33.772823,150.908434,Rooftop of 30m Building facing Flushcombe Rd 55 Campbell Street BLACKTOWN,NSW,2,2148,Within 10 metres,83,MV9P,48
+9018578,-32.056728,148.863914,45m OEH Lattice Tower Off Mendooran Rd GOONOO FOREST,NSW,4,2830,Within 10 metres,419,MV4D,26
+9019510,-35.358671,145.718304,Jerilderie Shire Council 50m Lattice Tower 3 Coonong Street JERILDERIE,NSW,4,2716,Within 10 metres,122,LW4G,59
+9019667,-29.650229,150.833448,NBN Co Site Coles Lane DELUNGRA,NSW,4,2403,Within 10 metres,597,MU6L,230
+9020315,-33.898862,141.389991,NSWRFS / Wentworth Shire Council 90m Guyed Mast off Renmark Road WENTWORTH,NSW,5,2648,Within 10 metres,55,JV9N,40
+9020829,-34.478201,147.013896,"RFS Site McPhails Lane, Walleroobie MT BECKHAM",NSW,4,2665,Within 10 metres,364,LW3E,20
+9020845,-36.340381,150.062637,NBN Co Site Off Umbarra Road AKOLELE,NSW,4,2546,Within 10 metres,54,MW9E,188
+9020874,-33.457897,148.370909,NSW Telco Authority Site Round Hill EUGOWRA,NSW,4,2806,Within 10 metres,365,MV7F,18
+9021127,-35.338474,143.982567,NSWPF 102m Guyed Mast 3759 Noorong Rd NOORONG,NSW,4,2732,Within 10 metres,70,KW5H,34
+9021165,-28.803795,153.110456,NSWTA 40m Lattice Tower off Rambaldinis Rd NAUGHTONS GAP,NSW,4,2470,Within 10 metres,131,NU3M,39
+9021302,-33.962336,145.342398,RFS / Carrathool Council 40m Lattice Tower off 709 Gunbar Rd GUNBAR,NSW,5,2711,Within 10 metres,99,LV7N,28
+9021917,-32.400837,151.248605,Singleton Council 40m Lattice Tower Mt Dyrring WESTBROOK,NSW,4,2330,Within 10 metres,undefined,NV4E,29
+9021928,-31.848588,149.101181,NSW Police Site Mendooran Lot 59 Manusu Drive MENDOORAN,NSW,4,2842,Within 10 metres,undefined,MV2M,20
+9022782,-33.390831,141.760424,NSW Police Site Windamingle Station Lot 5304 DP 768219. 2756 Old Broken Hill Road ANABRANCH NORTH,NSW,5,2648,Within 10 metres,undefined,JV9H,20
+9022783,-33.821788,141.70898,NSWPF 90m Guyed Mast 3676 Anabranch Mail Road ANABRANCH SOUTH,NSW,5,2648,Within 10 metres,undefined,JV9O,30
+9023477,-32.656721,147.144986,"DDA Tower Boona Mountain, 48 km N of CONDOBOLIN",NSW,5,2877,Within 10 metres,undefined,LV6I,34
+9024290,-28.51618,152.62331,NSWTA 40m Lattice Tower off North Yabbra Rd BOOMI CREEK,NSW,4,2469,Within 10 metres,undefined,NU2K,24
+9024291,-28.757062,152.453504,NSWPF 40m Lattice Tower Pretty Gully 237 Crescent Hills Road TABULAM,NSW,4,2469,Within 10 metres,undefined,NU2N,32
+9025992,-34.055312,151.06869,Telstra Site Temptation Creek Trail ROYAL NATIONAL PARK,NSW,2,2233,Within 10 metres,undefined,NW1A,110
+9026257,-33.711696,151.115132,Bareena Avenue WAHROONGA,NSW,2,2076,Within 10 metres,undefined,NV7I,10
+9026258,-33.757392,151.048238,cnr M2 and Pennant Hills Road WEST PENNANT HILLS,NSW,2,2125,Within 10 metres,undefined,NV7M,10
+9026259,-33.764874,151.014499,cnr M2 and Barclay Road NORTH ROCKS,NSW,2,2151,Within 10 metres,undefined,NV7M,10
+9026260,-33.727313,151.084738,Loch Maree Avenue THORNLEIGH,NSW,2,2120,Within 10 metres,undefined,NV7I,18
+9026261,-33.720596,151.108213,Kingsley Close WAHROONGA,NSW,2,2076,Within 10 metres,undefined,NV7I,10
+9026262,-33.739679,151.06136,Killaloe Avenue PENNANT HILLS,NSW,2,2120,Within 10 metres,undefined,NV7I,10
+9026265,-33.731517,151.007724,NWRL Underground Repeater Castle Hill Railway Station CASTLE HILL,NSW,2,2154,Within 10 metres,undefined,NV7I,20
+9026268,-33.727738,150.987102,NWRL Underground Repeater Showground Railway Station CASTLE HILL,NSW,2,2154,Within 10 metres,undefined,MV9L,20
+9026705,-35.802137,147.253658,"NSWPF 35m Monopole Mt Raven, off 88 Woomargama Way WOOMARGAMA",NSW,4,2644,Within 10 metres,undefined,LW6N,24
+9027329,-30.031391,147.467227,Narran Lake Road  BOOROOMA,NSW,5,2832,Within 10 metres,undefined,LU9B,8
+9027330,-29.997315,147.990451,Kamiloroi Highway 13 km W of WALGETT,NSW,5,2832,Within 100 metres,undefined,LU6P,16
+9027777,-36.269924,149.405816,"NSWOEH 21m Lattice Tower Kybeyan Trig, off Kybeyan East Firetrail TUROSS",NSW,4,2630,Within 10 metres,undefined,MW8F,26
+9028039,-29.297997,149.25691,"NSWRFS 90m Guyed Mast Troy Ln, off Watercourse Road BULLARAH",NSW,4,2400,Within 100 metres,undefined,MU5F,38
+9028181,-33.903567,151.167702,NSW TA/GRN site MRCK 23-29 Addison Road MARRICKVILLE,NSW,2,2204,Within 10 metres,16,NV7M,62
+10002052,-33.031163,149.582554,"NSWPF 50m Lattice Tower Monkey Hill, 1545 Hill End Rd SALLYS FLAT",NSW,4,null,Within 10 metres,undefined,MV8C,36
+10002220,-30.068036,148.180726,"NSWTA 75m Lattice Tower Trilby Park, 746 Come By Chance Rd WALGETT",NSW,5,null,Within 10 metres,undefined,MU7A,24
+10002221,-31.691978,147.442379,"NSWTA 50m Lattice Tower 13789 Mitchell Highway, MULLENGUDGERY",NSW,5,null,Within 10 metres,undefined,LV3J,16
+10002222,-30.007964,148.612804,NSWTA 60m Lattice Tower 32677 Kamilaroi Highway CRYON,NSW,5,2387,Within 10 metres,undefined,MU7C,22
+10002223,-30.633662,148.06613,"NSWTA 90m Guyed Mast Toora Station, 575 Toora Rd CONIMBIA",NSW,5,null,Within 10 metres,undefined,MU7I,18
+10002224,-31.9973,147.76258,NSWTA 60m Lattice Tower 1142 Cathundral-Bogan Rd CATHUNDRAL,NSW,5,null,Within 10 metres,undefined,LV3P,18
+10002914,-33.97016,151.136028,Kogarah Ambulance Sites 5 Rocky Point Road Kogarah,NSW,2,null,Within 10 metres,undefined,NV7M,14
+10004361,-28.93354,153.42261,Northern Rivers Comms Site Buckombil Mountain Road BUCKOMBIL,NSW,4,null,Within 10 metres,undefined,NU3N,4
+10004652,-36.3993,148.739244,423 Avonside Rd Avonside,NSW,4,null,Within 10 metres,undefined,MW7G,138
+10004713,-33.867659,151.204806,151 Clarence St SYDNEY,NSW,2,null,Within 10 metres,undefined,NV7M,54
+10004802,-33.28512,149.1248,Orange East 181 Icely Road RANGE,NSW,4,null,Within 10 metres,undefined,MV8E,44
+10006812,-28.399,152.3768,Koreela 988 Acacia Plateau Road Legume,NSW,4,null,Within 10 metres,undefined,NU2F,30
+10007100,-36.688936,149.858601,South East Regional Hospital 4 Virginia Drive Bega,NSW,4,null,Within 10 metres,undefined,MW8L,11
+10008013,-29.104169,153.424223,Optus 30m Monopole 3-5 Canberra Road Evans Head Town North EVANS HEAD,NSW,4,null,Within 10 metres,undefined,NU6B,48
+10008605,-30.126729,153.181251,WAVECONN 55m Guyed Mast 11 Unwins Road SANDY BEACH,NSW,4,2456,Within 10 metres,undefined,NU9A,32
+10009027,-32.721123,148.197418,"NSWPF 40m Lattice Tower Council Water Reserve, off Mingelo St PEAK HILL",NSW,4,null,Within 10 metres,undefined,MV4I,20
+10010363,-30.19611,151.97346,Mt Hourigan 113 Fern Hill Road ABERFOYLE,NSW,4,null,Within 10 metres,undefined,NU7D,70
+10010863,-33.746774,150.847935,2 Enterprise Drive Glendenning,NSW,2,null,Within 10 metres,undefined,MV9L,52
+10011364,-33.844533,151.074899,NSW Fire Service Headquarters 4 Murray Rose Avenue Sydney Olympic Park,NSW,2,null,Within 10 metres,undefined,NV7M,27
+10011851,-34.073012,150.514432,Oakdale Rural Fire Brigade 50-56 Egans Road Oakdale,NSW,2,null,Within 10 metres,undefined,MW3C,3
+10012086,-34.0369,151.114323,The Sutherland Hospital Kingsway Caringbah,NSW,2,null,Within 10 metres,undefined,NW1A,34
+10012087,-30.93962,151.39601,Telstra Site 23 Boyd Lane Walcha Road,NSW,4,null,Within 100 metres,undefined,NU7N,36
+10012090,-33.7987,150.981626,Northmead Super Station 195 Briens Rd Northmead,NSW,2,null,Within 10 metres,undefined,MV9P,12
+10013594,-28.67846,153.59739,NSWTA 20m Monopole off Coopers Shoot Road COOPERS SHOOT,NSW,4,2479,Within 10 metres,undefined,NU3K,14
+10013595,-28.86403,153.05611,NSWTA 45m Lattice Tower off Hartley St CASINO,NSW,4,null,Within 10 metres,undefined,NU3M,16
+10013596,-30.89806,153.04857,NSWTA 40m Monopole off Belle O'Connor St SOUTH WEST ROCKS,NSW,4,2431,Within 10 metres,undefined,NU9M,16
+10013705,-31.131892,149.710547,"NSWPF 50m Lattice Tower Mullaley Deer Park, off Oxley Hwy NOMBI",NSW,4,2379,Within 10 metres,undefined,MV2C,20
+10014384,-33.865688,151.206592,Wynyard Place 14 Carrington Street Sydney,NSW,2,null,Within 10 metres,undefined,NV7M,26
+10015528,-33.691442,150.899217,Sydney Metro Train Facility Administration Building 47 Tallawong Road ROUSE HILL,NSW,2,null,Within 10 metres,undefined,MV9L,12
+10016113,-30.16796,152.42781,NSWTA 25m Lattice Tower off Hardens Road MT HYLAND,NSW,4,2448,Within 10 metres,undefined,NU8B,20
+10016151,-31.56562,152.43325,NSWTA 25m Monopole 426 Duck Ridge Road COMBOYNE WEST,NSW,4,null,Within 10 metres,undefined,NV2J,14
+10016831,-31.9489,149.21291,NSWTA 45m Lattice Tower Wongalee off Coborra Rd MENDOORAN,NSW,4,2842,Within 10 metres,undefined,MV2M,16
+10016833,-29.702567,143.641022,"NSWTA 70m Guyed Mast Urisino Lot 1067, off The Cut Line WANAARING",NSW,5,null,Within 100 metres,undefined,KU5K,14
+10016834,-35.239237,148.500232,NSWTA 20m Monopole Tumorrama Mountain off Lookout Road TUMORRAMA,NSW,4,2720,Within 10 metres,undefined,MW4B,18
+10016836,-35.11966,148.33335,NSWTA 45m Lattice Tower Red Hill State Forest via Honeysuckle Rd ADJUNGBILLY,NSW,4,2727,Within 10 metres,undefined,MW4B,16
+10016839,-35.09569,150.04063,NSWTA 35m Lattice Tower off 125 Old Timberlight Rd NERRIGA,NSW,4,null,Unknown,undefined,MW6A,4
+10016841,-35.66147,149.51198,"NSWTA 18m Monopole, Mount Cowangerong Off Captains Flat Rd Jingera",NSW,4,null,Unknown,undefined,MW5K,48
+10016844,-32.80696,149.75032,NSWTA 35m Lattice Tower Mt Bocoble off Woorawa Rd BOCOBLE,NSW,4,2850,Unknown,undefined,MV5O,18
+10016845,-35.974914,148.313668,"Snowy Hydro site, Mt Black Jack Jagumba",NSW,4,null,Unknown,undefined,MW4N,4
+10016846,-33.67778,150.009681,NSWTA 25m Monopole Mt Bindo via Bindo Boundary Rd HAMPTON,NSW,4,null,Within 100 metres,undefined,MV9I,18
+10016848,-35.4955,148.010052,NSWTA 20m Monopole Kendall Trig off Kendall Tower Rd GREEN HILLS,NSW,4,2730,Within 10 metres,undefined,MW4E,18
+10016852,-33.07778,147.15717,"NSWTA 70m Lattice Tower Reservoir Hill, Brady St CONDOBOLIN",NSW,4,2877,Unknown,undefined,LV9A,28
+10016856,-32.533389,149.876946,"NSWTA 20m Monopole, Shellharbour Hill off 136 Upper Botobolar BOTOBOLAR",NSW,4,2850,Within 10 metres,undefined,MV5L,16
+10016867,-30.268883,143.595623,NSWTA 70m Guyed Mast Wonga Lilli via Wilcannia-Wanaaring Rd WHITE CLIFFS,NSW,5,null,Within 10 metres,undefined,KU8G,16
+10017865,-34.583256,150.824505,"NSW Telco Authority 25m monopole (SIGH Signal Hill), 113-119 Dunsters Lane Croom",NSW,2,null,Within 10 metres,undefined,MW3L,16
+10018830,-33.945133,151.226118,"Main tower Westfield Eastgardens, 152 Bunnerong Rd Eastgardens",NSW,2,null,Within 10 metres,undefined,NV7M,104
+10019261,-33.916091,148.942775,NSWTA 30m Lattice Tower Blue Mantle Road WYANGALA,NSW,4,2808,Within 10 metres,undefined,MV7P,20
+10019388,-33.892954,151.250304,"NSW Telco Authority, lift #35 motor room, southwest corner carpark level R4 rooftop, 217-229 Oxford Street Bondi Junction",NSW,2,null,Within 10 metres,undefined,NV7M,26
+10020355,-31.04397,149.37226,NSWTA 60m lattice tower Wanda Trig Bald Hill DANDRY,NSW,4,null,Within 10 metres,undefined,MV2B,20
+10020765,-32.691562,150.017509,NSWTA 20m Monopol 3648 Bylong Valley Way Bald Mountain RYLSTONE,NSW,4,null,Within 10 metres,undefined,MV6I,18
+10021191,-34.35999,147.21101,NSWTA 70m Lattice Tower Corner of Burley Griffin Way And Coolamon Road Ariah Park,NSW,4,null,Within 10 metres,undefined,LW3E,42
+10021213,-29.986928,146.848671,NSWTA 120m Guyed Mast Lot 146 off Charlton Road Brewarrina,NSW,5,null,Within 10 metres,undefined,LU5P,20
+10021214,-30.37317,150.86423,"NSWTA 35m Lattice Tower  Nangarah Trig, via 285 Rockview Rd THIRLDENE",NSW,4,null,Within 10 metres,undefined,MU9H,16
+10021215,-33.83914,146.217218,"NSWTA 45m Lattice Tower, Conapaira Trig, off 9910 Mid Western Hwy RANKINS SPRINGS",NSW,5,null,Within 10 metres,undefined,LV8M,20
+10021216,-31.819294,150.162628,NSWTA 65m Lattice Tower Coolah Tops LIVERPOOL RANGE (OFF COOLAH CREEK RD) CASSILIS,NSW,4,null,Within 10 metres,undefined,MV3M,16
+10021217,-29.977414,150.65112,"NSWTA 20m Monopole 273 Bora Link Road, Dinoga DINOGA",NSW,4,null,Within 10 metres,undefined,MU6O,18
+10021218,-34.526917,147.780991,NSWTA 40m Lattice Tower 422 Cliffords Lane STOCKINBINGAL,NSW,4,null,Within 10 metres,undefined,LW3L,18
+10021220,-32.345087,148.381471,"NSWTA 35m Lattice Tower Sappa Bulga Trig, via Springvale Rd off Peak Hill Rd NARROMINE",NSW,4,null,Within 10 metres,undefined,MV4F,34
+10021221,-36.545079,149.865963,NSWTA 40m Monopole Mumbulla Trig Road BOMBALA,NSW,4,null,Within 10 metres,undefined,MW8L,6
+10021222,-29.87138,150.591752,NSWTA 30m Lattice Tower TOWER SITE RESERVE APEX LOOKOUT RD BINGARA,NSW,4,null,Within 10 metres,undefined,MU6O,16
+10022068,-36.864231,149.728456,NSWTA 35m Lattice Tower Wolumla Peak Road SOUTH WOLUMLA,NSW,4,2550,Within 10 metres,undefined,MW8O,8
+10022141,-31.422211,152.120592,NSWTA 35m Lattice Tower Fire Tower St DOYLES RIVER,NSW,4,null,Within 10 metres,undefined,NV2E,16
+10022142,-28.837815,153.424091,NSWTA 40m Monopole Access from 9 Robb St ALSTONVILLE,NSW,4,null,Within 10 metres,undefined,NU3N,18
+10022185,-31.039519,151.889974,"NSWTA 30m Lattice Tower Moona Trig, off Chinnocks Rd WALCHA",NSW,4,null,Within 10 metres,undefined,NV1D,16
+10022201,-28.81753,153.51127,NSW TA 25m Monopole off 55 Beacon Rd TEVEN,NSW,4,null,Within 10 metres,undefined,NU3O,18
+10022202,-35.303605,149.395025,NSWTA 30m Monopole Private Rd off Kings Hwy BUNGENDORE,NSW,4,null,Within 10 metres,undefined,MW5F,22
+10022203,-32.270073,149.72275,NSW TA 50m Lattice Tower Lot 85 Cope Rd ULAN,NSW,4,null,Within 10 metres,undefined,MV5G,16
+10022333,-28.67369,150.45951,NSWTA 30m Monopole  3954 Tucka Tucka Road BOGGABILLA,NSW,4,null,Within 10 metres,undefined,MU3J,14
+10022334,-37.248554,150.016939,NSWTA 40m Monopole Green Cape Lighthouse Road GREEN CAPE,NSW,4,null,Within 10 metres,undefined,MX3E,2
+10022335,-30.48829,146.86871,NSWTA 60m Lattice Tower  Arthur Hall VC Way NEW YEARS RANGE,NSW,5,null,Within 10 metres,undefined,LU8H,14
+10022336,-32.04012,151.19101,NSWTA 30m Tower STEWARTS BROOK ROAD WOOLOOMA,NSW,4,null,Within 10 metres,undefined,NV4A,18
+10022338,-30.216728,151.682732,NSWTA 30m Monopole  Georges Close GUYRA,NSW,4,null,Within 10 metres,undefined,NU7C,14
+10022339,-31.892451,150.478224,"NSWTA 50m Lattice Tower Ten Mile Mountain, 237 Beales Creek Rd KARS SPRINGS",NSW,4,null,Within 10 metres,undefined,MV3N,4
+10022340,-31.741191,148.933836,NSWTA 50m Lattice Tower 1345 Appletree Flat Road MENDOORAN,NSW,5,null,Within 10 metres,undefined,MV1L,18
+10022341,-31.32974,151.65611,NSWTA 110m Guyed Mast  1935 St Leonards Creek Road WALCHA,NSW,4,null,Within 10 metres,undefined,NV1G,16
+10022661,-33.370836,146.782266,NSWTA 40m Monopole Gormans Hill off Bygalore Rd TULLIBIGEAL,NSW,5,null,Within 10 metres,undefined,LV8H,16
+10023104,-30.5539,152.07592,NSWTA 30m Monopole off Kempsey Road WOLLOMOMBI,NSW,4,null,Within 10 metres,undefined,NU8I,16
+10023105,-34.39234,149.11414,NSWTA 40m Monopole off Hollywood Road NARRAWA,NSW,4,null,Within 10 metres,undefined,MW2E,16
+10023174,-28.34526,153.56152,NSWTA 30m Monopole Round Mountain  off Reservoir Road Bogangar,NSW,4,null,Within 10 metres,undefined,NU3G,16
+10023687,-31.41861,145.28708,"NSWTA 100m Guyed Mast Leopardwood Hill, off 692 Mount Gap Rd CUBBA",NSW,5,null,Within 10 metres,undefined,LV1F,16
+10024961,-28.730991,152.764857,"NSWTA 40m Lattice Tower Mt Babyl, off Cambridge Plateau Forest Dr THERESA CREEK",NSW,4,null,Within 10 metres,undefined,NU2L,20
+10025539,-33.354648,141.421628,Wentworth Shire Council 90m Guyed Mast Nanya Station 2313 Belvedere Road SCOTIA,NSW,5,null,Within 10 metres,undefined,JV9F,4
+10026380,-33.50484,145.543605,NSWTA 50m Lattice Tower off 129 Norwood Ln HILLSTON,NSW,5,2675,Within 10 metres,undefined,LV7K,16
+10026381,-35.331944,143.61222,NSWTA 60m Lattice Tower off Swan Hill Road and Noorong Road MURRAY DOWNS,NSW,4,null,Within 10 metres,undefined,KW5G,16
+10026382,-32.98167,144.73324,NSWTA 100m Guyed Mast near Conoble Lake IVANHOE,NSW,5,null,Within 10 metres,undefined,KV6O,16
+10026383,-32.918888,144.28,NSWTA 100m Guyed Mast off Balranald Road IVANHOE,NSW,5,null,Within 10 metres,undefined,KV6N,16
+10026384,-35.42892,144.59673,NSWTA 100m Guyed Mast off 2520 Calimo Road CALIMO,NSW,4,null,Within 10 metres,undefined,KW6G,20
+10026385,-34.45904,144.34671,NSWTA 100m Guyed Mast 4833-4836 Maude Road MAUDE,NSW,5,null,Within 10 metres,undefined,KW3F,4
+10026386,-33.57842,141.31564,"NSWTA 70m Guyed Mast Warwick Station, 3700 Nulla Rd PINE CAMP",NSW,5,null,Within 10 metres,undefined,JV9J,4
+10026387,-32.553314,141.773683,"NSWTA 70m Guyed Mast, Wendi off Tandou Road BROKEN HILL",NSW,5,null,Within 10 metres,undefined,JV6L,14
+10026388,-36.998309,148.677358,"NSWTA 25m Lattice Tower, Mt Tingaringy, Alpine National Park off Hobbs Road TUBBETT",NSW,4,null,Within 10 metres,undefined,MW7O,4
+10026460,-30.39678,152.68837,"NSWTA 40m Monopole, Francis Lookout off 498 Maynards Plains Rd DORRIGO MOUNTAIN",NSW,4,null,Within 10 metres,undefined,NU8G,20
+10026461,-31.948558,145.124148,NSWTA 85m Guyed Mast off 9717 The Wool Track SANDY CREEK,NSW,5,null,Within 10 metres,undefined,LV1M,16
+10026462,-32.359772,145.991271,NSWTA 30m Lattice Tower off 25679 Kidman Way GILGUNNIA,NSW,5,null,Within 10 metres,undefined,LV4H,4
+10026463,-29.13055,147.48447,NSWTA 70m Lattice Tower off Bangate Road GOODOOGA,NSW,5,null,Within 10 metres,undefined,LU6B,16
+10026557,-29.211721,147.734693,"NSWTA 80m Guyed Mast, Bangate Tank  1418 Bangate Road GOODOODA",NSW,5,null,Within 10 metres,undefined,LU6C,22
+10026558,-35.05689,144.814023,NSWTA 100m Guyed Mast 75 Warwillah Road WANGANELLA,NSW,4,null,Within 10 metres,undefined,KW6D,16
+10026559,-32.587852,146.424103,"NSWTA 50m Lattice Tower, Marobee 1610 Tallebung Road EREMERANG",NSW,5,null,Within 10 metres,undefined,LV5J,16
+10026561,-32.317057,145.016367,NSWTA 35m Lattice Tower off 1540 Moolah Road KULWIN,NSW,5,null,Within 10 metres,undefined,LV4E,14
+10026562,-32.022543,142.255631,"NSWTA 55m Lattice Tower, Glen Lyon off 2898 Menindee Road MENINDEE",NSW,5,null,Within 10 metres,undefined,KV4B,22
+10026563,-35.775504,144.587412,NSWTA Site Blaxland St BUNNALOO,NSW,4,2731,Within 10 metres,undefined,KW6O,4
+10026670,-33.75939,150.714817,"New Hospital Building, Nepean Hospital Derby Street KINGSWOOD",NSW,2,null,Within 10 metres,undefined,MV9O,12
+10026731,-31.6882,143.83591,"NSWTA 50m Guyed Mast, Mac Cullochs Range off 23061 Barrier Hwy WILCANNIA",NSW,5,null,Within 10 metres,undefined,KV2L,14
+10026732,-31.539543,143.392442,NSWTA 80m Guyed Mast 564 West Tilpa Road WILCANNIA,NSW,5,2836,Within 10 metres,undefined,KV2J,4
+10026863,-35.976351,149.858739,"NSWTA 20m Monopole, Plumwood Fire Tower Track off Little Sugarloaf Road DEUA",NSW,4,null,Within 10 metres,undefined,MW5P,16
+10026864,-32.89572,149.13766,"NSWTA 30m Monopole, Flagstaff Hill 511 Bundalah Road EUCHAREENA",NSW,4,null,Within 10 metres,undefined,MV5M,2
+10027021,-31.807501,141.249877,NSWTA 70m Lattice Tower off Silverton Rd SILVERTON,NSW,5,null,Within 10 metres,undefined,JV3M,16
+10027101,-29.649912,152.1407,NSWTA 30m Lattice Tower Lookout Rd GIBRALTAR RANGE,NSW,4,null,Within 10 metres,undefined,NU5I,16
+10027102,-31.749893,151.422482,NSWTA 45m Lattice Tower Glenrock Trig off Pigma Barney Firetrail via Collemandah Rd TOMALLA,NSW,4,2337,Within 10 metres,undefined,NV1N,18
+10027103,-29.386586,151.556258,Transgrid 30m Monopole off Schroders Rd EMMAVILLE,NSW,4,null,Within 10 metres,undefined,NU4G,16
+10027135,-33.504956,142.093833,"NSWTA 100m Guyed Mast, Trelega Station  off 3266 Nob Rd POONCARIE",NSW,5,null,Within 10 metres,undefined,KV7I,20
+10027139,-30.155891,142.893758,NSWTA 50m Guyed Mast Quarry View via 5964 Bootra Rd WHITE CLIFFS,NSW,5,null,Within 10 metres,undefined,KU7D,16
+10027255,-33.943646,151.160741,M5 Eastbound Tunnel (nominal point) Cooks River Crossing MASCOT,NSW,2,null,Within 10 metres,undefined,NV7M,2
+10027401,-30.971422,141.718449,NSWTA 50m Lattice Tower 10751 Silver City Hwy PACKSADDLE,NSW,5,null,Within 10 metres,undefined,JU9O,4
+10028080,-32.864272,143.491532,"NSWTA Guyed Mast Nelia Station, near Darnick Railway Station, off Ivanhoe-Menindee Rd IVANHOE",NSW,5,null,Within 10 metres,undefined,KV5N,14
+10028082,-34.447867,147.558464,NSWTA 50m Lattice Tower 11 Narraburra St TEMORA,NSW,4,null,Within 10 metres,undefined,LW3G,16
+10028148,-30.74059,144.87075,NSWTA Tx Repeater CCCX  LOUTH,NSW,5,null,Within 10 metres,undefined,KU9L,4
+10028150,-30.364755,142.316509,NSWTA 135m Guyed Mast Morden Station Henry Roberts Rd PACKSADDLE,NSW,5,2880,Within 100 metres,undefined,KU7F,6
+10028151,-29.66455,141.93011,NSWTA 80m Guyed Mast off Sliver City Hwy MILPARINKA,NSW,5,2880,Within 10 metres,undefined,JU6L,4
+10028394,-30.35525,148.887548,NSWTA 55m Lattice Tower 16 Lagoon Street PILLIGA,NSW,5,null,Within 10 metres,undefined,MU7H,18
+10028432,-33.68366,150.90185,Indara 35m Monopole  130 Cudgegong Road ROUSE HILL,NSW,2,null,Within 10 metres,undefined,MV9L,200
+10028865,-29.457027,149.824033,"NSWTA 65m Lattice Tower Sewage Treatment Plant, via Boundary St MOREE",NSW,4,null,Within 10 metres,undefined,MU5H,14
+10029578,-35.6151,144.1432,NSWTA 70m Tower off Lilford Ln BARHAM,NSW,4,null,Within 10 metres,undefined,KW6I,14
+10029733,-31.97234,151.80899,NSWTA 20m Lattice Tower Copeland Tops off Copeland Trig Trail COPELAND,NSW,4,null,Within 10 metres,undefined,NV1P,18
+10029773,-29.511498,149.004435,NSWTA 60m Lattice Tower  2645 Bronte Rd  BULLARAH,NSW,4,null,Within 10 metres,undefined,MU5I,16
+10029839,-36.493355,148.28767,"NSWTA 10m Pole Mt Crackenback, Eagles Nest via Thredbo Village  THREDBO",NSW,4,null,Within 10 metres,undefined,MW7F,14
+10029840,-36.409858,148.387491,NSWTA 3m Shelter Mt Perisher off Kosciuszko Rd PERISHER VALLEY,NSW,4,null,Within 10 metres,undefined,MW7F,2
+10029841,-35.027549,143.368165,NSWTA 70m Lattice Tower 432 Coomaroop Rd TOOLEYBUC,NSW,4,null,Within 10 metres,undefined,KW5B,2
+10030266,-28.650347,149.176225,NSWTA 125m Guyed Mast off Talwood Mungindi Rd DAYMAR,QLD,5,null,Within 10 metres,undefined,MU2I,14
+10030267,-34.57569,145.48658,NSWTA 70m Guyed Mast Gundaline off 19805 Stuart Hwy DARLINGTON POINT,NSW,5,null,Within 10 metres,undefined,LW1J,16
+10030268,-35.363922,145.324712,NSWTA 112m Guyed Mast off Conargo Rd HARTWOOD,NSW,4,null,Within 10 metres,undefined,LW4F,18
+10030269,-35.693149,145.396926,NSWTA 50m Lattice Tower 26 Pine Lodge Rd PINE LODGE,NSW,4,null,Within 10 metres,undefined,LW4J,16
+10030270,-33.891239,142.650561,NSWTA 70m Guyed Mast Murrungi Station off 2423 Petro Mail Rd ARUMPO,NSW,5,null,Within 10 metres,undefined,KV7O,14
+10030271,-30.328744,149.795257,NSWTA 40m Monopole Council Depot Fitzroy St NARRABRI,NSW,4,null,Within 10 metres,undefined,MU8H,28
+10030272,-34.55346,146.39792,NSWTA 40m Monopole 12-16 Acacia Ave LEETON,NSW,4,2705,Within 10 metres,undefined,LW2J,16
+10031193,-29.35449,145.21608,NSWTA 100m Guyed Mast Mascot Station  off 2870 Mascot Rd YANTABULLA,NSW,5,null,Within 10 metres,undefined,LU4E,16
+10031338,-35.104525,150.255584,NSWTA 45m Lattice Tower 4018 Braidwood Rd SASSAFRA,NSW,4,null,Within 10 metres,undefined,MW6B,14
+10031513,-34.48775,143.801221,NSWTA 50m Lattice Tower 3163 Waugorah Rd WAUGORAH,NSW,5,null,Within 10 metres,undefined,KW2H,16
+10031689,-28.555915,153.415811,NSWTA 30m Monopole Teales Lookout Rd KOONYUM RANGE,NSW,4,null,Within 10 metres,undefined,NU3J,16
+10031704,-34.214628,145.197175,NSWTA 50m Lattice Tower 20717 Mid Western Hwy ONE TREE,NSW,5,null,Within 10 metres,undefined,LW1A,16
+10032510,-33.354742,141.420119,120 m NSWTA Guyed Mast 2313 Belvedere Road  SCOTIA,NSW,5,null,Within 10 metres,undefined,JV9F,16
+10033186,-30.63039,143.34621,NSWTA 55m Lattice Tower 1025 Glendara Rd WILCANNIA,NSW,5,null,Within 10 metres,undefined,KU8J,18
+10033525,-33.689493,142.40849,NSWTA 85m Guyed Mast 7297 Pooncarie Rd POONCARIE,NSW,5,null,Within 10 metres,undefined,KV7J,8
+10034129,-30.717203,145.152778,NSWTA 40m Guyed Mast 9838 Burke-Wilcannia Rd LOUTH,NSW,5,null,Within 10 metres,undefined,LU7I,6
+10034230,-35.523062,144.970353,"NSWTA 64m Lattice Tower Edward River Parkland, Lot 2 Chippenham Park Rd DENILIQUIN",NSW,4,2710,Within 100 metres,undefined,KW6L,6
+10034231,-33.91959,144.52855,NSWTA Site Corrong CORRONG,NSW,5,null,Within 10 metres,undefined,KV9O,6
+10034248,-29.659822,145.712202,NSWTA 50m Lattice Tower Station 878 Lower Lila Road NORTH BOURKE,NSW,5,null,Within 10 metres,undefined,LU4K,4
+10034249,-30.05155,142.050566,NSWTA 60m Guyed Mast Lower Cobham 24783 Silver City Hwy MILPARINKA,NSW,5,2880,Within 100 metres,undefined,KU7A,4
+10034315,-29.82399,145.00445,NSWTA Site Fords Bridge FORDS BRIDGE,NSW,5,null,Within 10 metres,undefined,LU4M,2
+10034380,-35.798193,144.898463,NSWTA 90m Guyed Mast 67 Golf Club Rd MATHOURA,NSW,4,2710,Within 10 metres,undefined,KW6P,10
+10034381,-29.426113,142.018263,NSWTA 70m Guyed Mast off Silver City Hwy TIBOOBURRA,NSW,5,null,Within 10 metres,undefined,KU4E,14
+10034382,-34.01575,141.76442,NSWTA 80m Guyed Mast Oakbank Station off 456 Anabranch Mail Rd ANABRANCH SOUTH,NSW,4,null,Within 10 metres,undefined,JW3D,6
+10034391,-34.459155,144.84443,NSWTA 80m Guyed Mast 12531 Cobb Hwy HAY,NSW,5,null,Within 10 metres,undefined,KW3H,16
+10034436,-34.525587,142.811766,NSW TA Guyed Mast 412 Euston Prungle Rd EUSTON,NSW,4,null,Within 10 metres,undefined,KW1L,16
+10034497,-33.916334,143.728857,NSWTA 80m Guyed Mast Freemount Station via Hatfield Penarie Rd HATFIELD,NSW,5,null,Within 10 metres,undefined,KV8O,4
+10034498,-35.07692,144.03489,NSWTA 110m Guyed Mast 586 Maude Rd MOULAMEIN,NSW,4,null,Within 10 metres,undefined,KW6A,16
+10034524,-32.01886,141.58829,NSWTA 120m Guyed Mast 8296 Menindee Rd BROKEN HILL,NSW,5,null,Within 10 metres,undefined,JV6C,6
+10034884,-34.806954,147.201465,NSWTA 50m Lattice Tower Kindra State Forest Rannock Rd COOLAMON,NSW,4,null,Within 10 metres,undefined,LW3M,16
+10035065,-30.89286,143.09357,NSWTA 100m Guyed Mast off Opal Miners Way WHITE CLIFFS,NSW,5,null,Within 10 metres,undefined,KU8M,2
+10035452,-30.33378,145.61647,"NSWTA Site, Hamilton Park LOT 11 Wilcannia Bourke Rd GUNDERBOOKA",NSW,5,null,Within 10 metres,undefined,LU7G,4
+10035602,-32.143162,142.902299,NSWTA Barraroo Site  MENINDEE,NSW,5,null,Within 10 metres,undefined,KV4D,4
+10035923,-30.38047,150.6124,NSWTA 40m Monopole 77 Cherry St BARRABA,NSW,4,null,Within 10 metres,undefined,MU9G,2
+10036305,-34.556978,143.587383,NSW TA 90m Guyed Mast Off Ivanhoe Road BALRANALD,NSW,5,null,Within 10 metres,undefined,KW2K,4
+10037306,-35.161602,147.455295,Regional Express hangar - Wagga Wagga Airport off Elizabeth Avenue FOREST HILL,NSW,4,null,Within 10 metres,undefined,LW6B,2
