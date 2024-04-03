@@ -1,0 +1,3 @@
+[submodule "TerriaMap-Telco"]
+	path = TerriaMap-Telco
+	url = https://github.com/claire-scott/TerriaMap-Telco.git
